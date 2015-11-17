@@ -1,5 +1,6 @@
 <?
-require('bootstrap');
+	require('bootstrap');
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -29,4 +30,3 @@ require('bootstrap');
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
-?>
