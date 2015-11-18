@@ -86,6 +86,24 @@
 	margin-top:12px;
 	font-size:1.5em;
 }
+.green
+{
+	color:#44d044;
+	font-weight:bold;
+	font-size:2em;
+}
+.gray
+{
+	color:#4e4e4e;
+}
+#abouticntse, #icntsefields
+{
+	font-weight:bold;
+}
+#icntsefields
+{
+	background-color:#4e4e4e;
+}
 #about-alex
 {
 /*	background-image:url('../img/Layer 2.png');*/
