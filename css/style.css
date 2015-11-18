@@ -92,18 +92,50 @@
 	font-weight:bold;
 	font-size:2em;
 }
+.white
+{
+	color:white;
+}
 .gray
 {
-	color:#4e4e4e;
+	color:#646464;
 }
 #abouticntse, #icntsefields
 {
 	font-weight:bold;
 }
-#icntsefields
+.shadedgray
 {
-	background-color:#4e4e4e;
+	background-color:#646464;
 }
+.cfp_date
+{
+	color:black;
+	font-weight:bold;
+}
+.cfp_note
+{
+	color:#5c9b79;
+}
+
+#cfptitle
+{
+	margin-left:-40%;
+}
+#cfptitle p
+{
+	font-size:1.5em;
+	font-weight:bold;
+}
+#importantdate p
+{
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	padding-top:0;
+	padding-bottom:0;
+	font-size:1.5em;
+}
+
 #about-alex
 {
 /*	background-image:url('../img/Layer 2.png');*/

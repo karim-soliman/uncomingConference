@@ -32,7 +32,7 @@
 		<p><span class="green">The conference</span> will provide the state of the art in alternative energy sources, application technologies and implementation strategies.</p>
 		<p><span class="green">Conference Topics:</span><br />The Conference will focus on a number of themes that need prior attention, these themes include:</p>
             </div> 
-            <div class="col-xs-12" id="icntsefields"> 
+            <div class="col-xs-12 shadedgray" id="icntsefields"> 
 		<ul class="green">
 			<li>Power and Energy Engineering</li>
 			<li>Renewable Energy Technologies Applications and Integration</li>
