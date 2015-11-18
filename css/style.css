@@ -1,28 +1,60 @@
-.nav-buttons
-{
-}
 #main
 {
 	background-image:url('../img/AlexandriaLibrary.png');
 	background-repeat:repeat-y;
 	background-size:cover;
+	height:878px;
+}
+#title
+{
+	margin-top:0;
 }
 #first-conf
 {
 	color:black;
+	font-family:impact;
 }
 #new-trends
 {
 	color:#0488d0;
+	font-family:arial;
+	font-weight:bold;
 }
 #icntse
 {
 	color:white;
+	font-size:6em;
+	font-weight:bold;
 }
 .shaded
 {
+	min-height:100px;
 	color:white;
+	font-size:1.5em;
 	background-color:rgba(0,0,0,0.4);
+	position:relative;
+}
+.shaded p
+{
+	position:absolute;
+	top:50%;
+	transform: translate(0,-50%);
+	margin-right:-50%;
+}
+.shaded img
+{
+	float:right;
+}
+#bottombar
+{
+	position:relative;
+	top:350px;
+}
+#bottombar #imgpos
+{
+	position:absolute;
+	right:5%;
+	bottom:5%;
 }
 .image
 {
@@ -32,8 +64,7 @@
 .image img
 {
 	display:block;
-	margin-left:auto;
-	margin-right:auto;
+	margin: 0px auto;
 }
 .image p
 {
@@ -45,10 +76,15 @@
 	width:135px;
 	text-align:center;
 }
-#about-alex #about-icntse #call-for-papers #fees #contact-us
+#nav
+{
+	padding-top:6px;
+}
+#about-alex, #about-icntse, #call-for-papers, #fees, #contact-us
 {
 	padding:2px;
-	margin:2px;
+	margin-top:12px;
+	font-size:1.5em;
 }
 #about-alex
 {
