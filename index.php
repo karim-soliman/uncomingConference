@@ -30,9 +30,9 @@
                 <h1 id="icntse">ICNTSE</h1>
                 <div class="row shaded"><p class="col-xs-12" id="1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p></div>
 		<div class="row shaded" id="bottombar">
-                    <p class="col-md-8 col-xs-6" id="organized">Organized by Pharos University in Alexandria with the association of the KTH Royal Institute of Technology </p>
-                    <a href="https://www.kth.se/en"><img class="col-md-2 col-xs-3" src="img/images.png" \></a>
-                    <a href="http://www.pua.edu.eg"><img class="col-md-2 col-xs-3" src="img/logo-Arabic.png" \></a>
+                    <p class="col-md-8 col-xs-12" id="organized">Organized by Pharos University in Alexandria with the association of the KTH Royal Institute of Technology </p>
+                    <a href="https://www.kth.se/en"><img class="col-md-2 col-xs-2" src="img/images.png" /></a>
+                    <a href="http://www.pua.edu.eg"><img class="col-md-2 col-xs-2" src="img/logo-Arabic.png" /></a>
                 </div>
             </div>
 	    <div class="col-md-3 col-xs-12" id="nav">
