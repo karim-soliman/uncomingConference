@@ -22,7 +22,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body >
+  <body class="enlargeFonts">
     <div class="container">
 	    <div class="row">
 		<div class="col-xs-12" id="cfptitle">
