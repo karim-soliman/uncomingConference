@@ -170,6 +170,11 @@ body
 {
 	font-weight:bold;
 }
+#icntsefields ul li
+{
+	cursor: hand;
+	cursor: pointer;
+}
 .shadedgray
 {
 	background-color:#646464;
@@ -204,6 +209,10 @@ body
 	padding-top:0;
 	padding-bottom:0;
 	font-size:1.5em;
+}
+#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4 
+{
+	display:none;
 }
 .enlargeFonts
 {
