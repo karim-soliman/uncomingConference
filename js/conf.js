@@ -26,3 +26,17 @@ window.addEventListener("resize", function(e) {
 		}
 	}
 });
+window.setInterval(function(){
+	var chairman=document.getElementById("chairman");
+	var organized=document.getElementById("organized");
+	if(chairman.style.display=="none")
+	{
+		chairman.style.display='inline';
+		organized.style.display='none';
+	}
+	else
+	{
+		chairman.style.display='none';
+		organized.style.display='inline';
+	}
+},20000); 

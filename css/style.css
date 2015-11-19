@@ -73,12 +73,39 @@ body
 	font-size:1.5em;
 	background-color:rgba(0,0,0,0.4);
 }
+.shaded #chairman
+{
+	font-size:0.75em;
+}
 #bottombar
 {
 	position:absolute;
 	bottom:20px;
 }
-
+#organized
+{
+	display:inline;
+	-webkit-animation: mainSlider 20s linear infinite 0s alternate-reverse; /* Chrome, Safari, Opera */ 
+	animation: mainSlider 20s linear infinite 0s alternate-reverse;
+}
+#chairman
+{
+	display:none;
+	-webkit-animation: mainSlider 20s linear infinite 0s alternate; /* Chrome, Safari, Opera */ 
+	animation: mainSlider 20s linear infinite 0s alternate;
+}
+@-webkit-keyframes mainSlider
+{
+	0%{opacity:0;}
+	50% {opacity:1;}
+	100% {opacity:0;}
+}
+@keyframes mainSlider
+{
+	0%{opacity:0;}
+	50% {opacity:1;}
+	100% {opacity:0;}
+}
 .image
 {
 	position:relative;

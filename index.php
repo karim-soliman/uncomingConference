@@ -31,11 +31,14 @@
 		<div class="row shaded">
 		    <p class="col-xs-12" id="1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
                 </div>
-		<div class="row shaded" id="bottombar">
-                    <p class="col-md-8 col-xs-12" id="organized">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
+		<div class="row" style="width:100%">
+		<div class="shaded" id="bottombar">
+                    <p class="col-xs-12 col-md-8" id="organized">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
+		    <p class="col-xs-12 col-md-8" id="chairman" >Chairman:Prof.Dr.Mahmoud ElGammal (PUA)<br />Co-Chairman:Prof.Dr.Mahmoun Muhammed (KTH)<br />Secretary General:Prof.Dr.Mohamed Fahiem (PUA)</p>
                     <a class="col-md-2 col-xs-6" href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a>
                     <a class="col-md-2 col-xs-6" href="https://www.kth.se/en"><img src="img/images.png" /></a>
-                </div>
+                </div> 
+                </div> 
             </div>
 	    <div class="col-md-3 col-xs-12" id="nav">
                     <div class="row">
