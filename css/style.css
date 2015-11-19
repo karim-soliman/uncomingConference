@@ -33,8 +33,13 @@
   font-weight: bold;
   font-style: normal;
 }
+body
+{
+	font-family:'Century Gothic','CenturyGothic';
+}
 #main
-{ background-image:url('../img/AlexandriaLibrary.png');
+{ 
+	background-image:url('../img/AlexandriaLibrary.png');
 	background-size:cover;
 	height:878px;
 }
@@ -45,19 +50,21 @@
 #first-conf
 {
 	color:black;
-	font-family:'CenturyGothic-Bold';
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
 }
 #new-trends
 {
-	color:#0488d0;
-	font-family:arial;
+	color:#2eb2fa;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
 	font-weight:bold;
+	font-size:1.25em;
 }
 #icntse
 {
 	color:white;
 	font-size:6em;
-	font-weight:bold;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	letter-spacing:0.5em;	
 }
 .shaded
 {
@@ -66,20 +73,12 @@
 	color:white;
 	font-size:1.5em;
 	background-color:rgba(0,0,0,0.4);
-}
-.shaded p
-{
-}
-.shaded img
-{
+	width:100%;
 }
 #bottombar
 {
 	position:absolute;
 	bottom:20px;
-}
-#bottombar #imgpos
-{
 }
 .image
 {
@@ -167,4 +166,11 @@
 	padding-top:0;
 	padding-bottom:0;
 	font-size:1.5em;
+}
+#navbuttons
+{
+	background-color:#80a7bc;
+	display: block;
+	text-align: center;
+	vertical-align: middle;
 }
