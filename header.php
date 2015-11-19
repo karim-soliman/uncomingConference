@@ -1,6 +1,3 @@
-<?
-//	require('bootstrap');
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -21,23 +18,9 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-  </head>
-  <body >
-    <div class="container">
-	    <div class="row">
-		<div class="col-md-3 col-xs-12" id="contacttitle">
-		    <div class="image">
-		    <img src="img/under-construction-150271_1280.png" />
-		    </div>
-		</div>
-		<div class="col-md-9 col-xs-12 shadedgray" id="feessubtitle">
-		    <p class="white"><u>This Page is Under Construction</u></p>
-		</div>
-	    </div>
-    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-  </body>
-</html>
+    <script src="js/conf.js"></script>
+  </head>
