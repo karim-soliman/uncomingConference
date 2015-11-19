@@ -22,16 +22,13 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body >
+  <body class="">
     <div class="container">
 	    <div class="row">
-		<div class="col-md-3 col-xs-12" id="contacttitle">
-		    <div class="image">
-		    <img src="img/Layer 2 copy 4.png" />
+		<div class="col-md-3 col-xs-12 navmenuitem" id="contacttitle">
 		    <p class="cfp_date">Contact Us</p>
-		    </div>
 		</div>
-		<div class="col-md-9 col-xs-12 shadedgray" id="feessubtitle">
+		<div class="col-md-9 col-xs-12 shadedgray enlargeFonts" id="feessubtitle">
 		    <p class="white"><u>Contact Information:</u></p>
 		    <p class="white">Conference Email: ICNTSE@pua.edu.eg</p>
 		    <p class="white">Conference Website: <a href="http://www.icntse.com">http://www.icntse.com</a></p>

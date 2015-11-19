@@ -28,8 +28,6 @@
             <div class="col-xs-12" id="abouticntse"> 
 		<h1><span class="gray">about</span> <span class="green">ICNTSE</span></h1>
 		<p><span class="green">The conference</span> is specifically designed to focus on the issues related to energy and energy conservation. Industry leaders, engineers and academics will discuss in this conference the latest developments in the use and production of renewable energy and ways of energy conservation.</p>
-		<p><span class="green">The conference</span> will highlight important advances being made in renewable energy and energy conservation, as well as the regulatory mechanisms that help make them possible.</p>
-		<p><span class="green">The conference</span> will provide the state of the art in alternative energy sources, application technologies and implementation strategies.</p>
 		<p><span class="green">Conference Topics:</span><br />The Conference will focus on a number of themes that need prior attention, these themes include:</p>
             </div> 
             <div class="col-xs-12 shadedgray" id="icntsefields"> 
@@ -75,6 +73,13 @@
 			        <li>Energy Sustainability in developing countries</li>
 			        <li>National Energy Strategy and Decision making</li>
 			        <li>Regional Issues, Economics & Policies</li>
+			    </ul>
+			</li>
+			<li onclick="toggle_visibility('icntsefield5')">BioEnergy &#9654;
+			    <ul id="icntsefield5">
+			        <li>BioDiesel</li>
+			        <li>BioFuels</li>
+			        <li>BioRefinery</li>
 			    </ul>
 			</li>
 		</ul>

@@ -49,7 +49,7 @@
 			</div>
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="about-icntse">
                             <a href="abouticntse.php">
-			    <p>About ICNTSE</p>
+			    <p>About The Conference</p>
                             </a>
 			</div>
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="brochure">

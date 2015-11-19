@@ -7,14 +7,14 @@
   font-style: normal;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'CenturyGothic';
   src: url('../fonts/CenturyGothic.woff') format('woff'),
        url('../fonts/CenturyGothic.tff') format('truetype'),
        url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 @font-face {
   font-family: 'CenturyGothic-Bold';
@@ -25,14 +25,14 @@
   font-style: normal;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'century-gothic-bold';
   src: url('../fonts/century-gothic-bold.eot');
   src: url('../fonts/century-gothic-bold.eot?#iefix') format('embedded-opentype'),
        url('../fonts/century-gothic-bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
-}
+}*/
 body
 {
 	font-family:'Century Gothic','CenturyGothic';
@@ -57,25 +57,25 @@ body
 	color:#2eb2fa;
 	font-family:'CenturyGothic-Bold','century-gothic-bold';
 	font-weight:bold;
-	font-size:1.25em;
+	font-size:1.6em;
 }
 #icntse
 {
 	color:white;
-	font-size:6em;
+	font-size:4em;
 	font-family:'CenturyGothic-Bold','century-gothic-bold';
-	letter-spacing:0.5em;	
+	letter-spacing:0.25em;	
 }
 .shaded
 {
 	min-height:100px;
 	color:white;
 	font-size:1.5em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
 	background-color:rgba(0,0,0,0.4);
 }
 .shaded #chairman
 {
-	font-size:0.75em;
 }
 #bottombar
 {
@@ -210,11 +210,12 @@ body
 	padding-bottom:0;
 	font-size:1.5em;
 }
-#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4 
+#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4,#icntsefield5 
 {
 	display:none;
+	color:gold;
 }
 .enlargeFonts
 {
-	font-size:2em;
+	font-size:2.5em;
 }

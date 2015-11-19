@@ -25,13 +25,10 @@
   <body >
     <div class="container">
 	    <div class="row">
-		<div class="col-md-3 col-xs-12" id="feestitle">
-		    <div class="image">
-		    <img src="img/Layer 2 copy 3.png" />
+		<div class="col-md-3 col-xs-12 navmenuitem" id="feestitle">
 		    <p>Conference Fees</p>
-		    </div>
 		</div>
-		<div class="col-md-9 col-xs-12" id="feessubtitle">
+		<div class="col-md-9 col-xs-12 enlargeFonts" id="feessubtitle">
 		    <p class="cfp_date"><span class="purple">Early booking delegates:</span> registered on or before 31 March, 2016*</p>
 		    <p class="cfp_date"><span class="purple">Standard delegates:</span> booking after 15 August, 2016**</p>
 		    <p class="cfp_date"><span class="purple"><u>Registration fee includes</u></span></p>
@@ -41,10 +38,10 @@
 		    <p class="cfp_date">Online access to the general proceedings</p>
 		    </div>
 		</div>
-		<div class="col-xs-12 shadedgray" id="importantdate">
+		<div class="col-xs-12 shadedgray enlargeFonts" id="importantdate">
 		    <p class="white">Fees</p>
 		</div>
-		<div class="col-xs-12" id="cfpdetails">
+		<div class="col-xs-12 enlargeFonts" id="cfpdetails">
 		    <p class="cfp_date">Authors (Early booking): $450</p>
 		    <p class="cfp_date">Authors (Standard booking): $500</p>
 		    <p class="cfp_date">On-Site Booking: $800</p>
