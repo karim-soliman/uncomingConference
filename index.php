@@ -22,7 +22,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body >
+  <body oninit="initHomePage()">
     <div class="container">
         <div class="row">
             <div class="col-md-9 col-xs-12" id="main"> 

@@ -1,3 +1,16 @@
+function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	if(e)
+	{
+		if(e.style.display == 'inline')
+		  e.style.display = 'none';
+		else
+		  e.style.display = 'inline';
+	}
+	else console.log("element "+id+" not found");
+}
+function initHomePage()
+{
 window.addEventListener("resize", function(e) {
 	var icntse=document.getElementById("icntse");
       	var items= document.getElementsByClassName('navmenuitem');
@@ -26,17 +39,9 @@ window.addEventListener("resize", function(e) {
 		}
 	}
 });
+
 window.setInterval(function(){
-	var chairman=document.getElementById("chairman");
-	var organized=document.getElementById("organized");
-	if(chairman.style.display=="none")
-	{
-		chairman.style.display='inline';
-		organized.style.display='none';
-	}
-	else
-	{
-		chairman.style.display='none';
-		organized.style.display='inline';
-	}
+	toggle_visibility('chairman');
+	toggle_visibility('organized');
 },20000); 
+}
