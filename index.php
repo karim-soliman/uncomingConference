@@ -45,7 +45,7 @@
                             </a>
 			</div>
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="committees">
-                            <a href="comittees.php">
+                            <a href="committees.php">
 			    <p>Committees</p>
                             </a>
 			</div>
