@@ -1,0 +1,221 @@
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('../fonts/Century Gothic.eot');
+  src: url('../fonts/Century Gothic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Century Gothic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*@font-face {
+  font-family: 'CenturyGothic';
+  src: url('../fonts/CenturyGothic.woff') format('woff'),
+       url('../fonts/CenturyGothic.tff') format('truetype'),
+       url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+@font-face {
+  font-family: 'CenturyGothic-Bold';
+  src: url('../fonts/CenturyGothic-Bold.woff') format('woff'),
+       url('../fonts/CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg'),
+       url('../fonts/CenturyGothic-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/*@font-face {
+  font-family: 'century-gothic-bold';
+  src: url('../fonts/century-gothic-bold.eot');
+  src: url('../fonts/century-gothic-bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/century-gothic-bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}*/
+body
+{
+	font-family:'Century Gothic','CenturyGothic';
+}
+#main
+{ 
+	background-image:url('../img/AlexandriaLibrary.jpg');
+	background-size:cover;
+	height:878px;
+}
+#title
+{
+	margin-top:0;
+}
+#first-conf
+{
+	color:black;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+}
+#new-trends
+{
+	color:#2eb2fa;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	font-weight:bold;
+	font-size:1.6em;
+}
+#icntse
+{
+	color:white;
+	font-size:4em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	letter-spacing:0.25em;	
+}
+.shaded
+{
+	min-height:100px;
+	color:white;
+	font-size:1.5em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	background-color:rgba(0,0,0,0.4);
+}
+.shaded #chairman
+{
+}
+#bottombar
+{
+	position:absolute;
+	bottom:20px;
+}
+#organized
+{
+	display:inline;
+	-webkit-animation: mainSlider 20s linear infinite 0s alternate-reverse; /* Chrome, Safari, Opera */ 
+	animation: mainSlider 20s linear infinite 0s alternate-reverse;
+}
+#chairman
+{
+	display:none;
+	-webkit-animation: mainSlider 20s linear infinite 0s alternate; /* Chrome, Safari, Opera */ 
+	animation: mainSlider 20s linear infinite 0s alternate;
+}
+@-webkit-keyframes mainSlider
+{
+	0%{opacity:0;}
+	50% {opacity:1;}
+	100% {opacity:0;}
+}
+@keyframes mainSlider
+{
+	0%{opacity:0;}
+	50% {opacity:1;}
+	100% {opacity:0;}
+}
+.image
+{
+	position:relative;
+	width:100%;
+}
+.image img
+{
+	display:block;
+	margin: 0px auto;
+}
+.image p
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	margin-right:-50%;
+	width:135px;
+	text-align:center;
+}
+#nav
+{
+	padding-top:6px;
+}
+.navmenuitem
+{
+	padding:10px;
+	margin-top:8px;
+	margin-bottom:8px;
+	font-size:2em;
+	background-color:#80a7bc;
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+}
+.navmenuitem a
+{
+	color:black;
+}
+.navmenuitem p
+{
+}
+.green
+{
+	color:#44d044;
+	font-weight:bold;
+	font-size:2em;
+}
+.white
+{
+	color:white;
+}
+.gray
+{
+	color:#646464;
+}
+.purple
+{
+	color:#905d94;
+}
+#abouticntse, #icntsefields
+{
+	font-weight:bold;
+}
+#icntsefields ul li
+{
+	cursor: hand;
+	cursor: pointer;
+}
+.shadedgray
+{
+	background-color:#646464;
+}
+.cfp_date
+{
+	color:black;
+	font-weight:bold;
+}
+.cfp_note
+{
+	color:#5c9b79;
+}
+
+#cfptitle
+{
+	margin-left:-40%;
+}
+#feestitle
+{
+	margin-top:5%;
+}
+#cfptitle p, #feestitle p
+{
+	font-size:1.5em;
+	font-weight:bold;
+}
+#importantdate p
+{
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	padding-top:0;
+	padding-bottom:0;
+	font-size:1.5em;
+}
+#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4,#icntsefield5 
+{
+	display:none;
+	color:gold;
+}
+.enlargeFonts
+{
+	font-size:2.5em;
+}
