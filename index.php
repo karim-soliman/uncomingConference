@@ -3,7 +3,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-9 col-xs-12" id="main"> 
-                <h1 id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
+                <h1 class="visible-md visible-lg" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
+                <h2 class="visible-xs visible-sm" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
                 <h1 id="icntse">ICNTSE</h1>
 		<div class="row shaded">
 		    <p class="col-xs-12" id="1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
