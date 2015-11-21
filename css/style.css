@@ -135,12 +135,87 @@ body
 	padding:10px;
 	margin-top:8px;
 	margin-bottom:8px;
-	font-size:2em;
 	background-color:#80a7bc;
 	display: block;
 	text-align: center;
 	vertical-align: middle;
 }
+
+@media (max-width: 767px) { /* screen-xs-max BS4: min-width:34em*/
+	#new-trends
+	{
+		font-size:1.25em;
+	}
+	#icntse
+	{
+		letter-spacing:0em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:0.9em;
+	}
+
+}
+@media (min-width: 768px) { /* screen-sm-min 48em */
+	#new-trends
+	{
+		font-size:1.25em;
+	}
+	#icntse
+	{
+		letter-spacing:0em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:1em;
+	}
+
+}
+
+@media (min-width: 992px) { /* @screen-md-min BS4: 62em*/
+	#new-trends
+	{
+		font-size:1.4em;
+	}
+	#icntse
+	{
+		letter-spacing:0.125em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:1.5em;
+	}
+
+}
+
+@media (min-width: 1200px) { /* @screen-lg-min 1200px BS4: 75em*/
+	#new-trends
+	{
+		font-size:1.6em;
+	}
+	#icntse
+	{
+		letter-spacing:0.25em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:2em;
+	}
+
+}
+
 .navmenuitem a
 {
 	color:black;
