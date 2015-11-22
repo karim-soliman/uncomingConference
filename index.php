@@ -26,7 +26,7 @@
                 <h1 id="icntse">ICNTSE</h1>
 		<div class="row shaded">
 		    <p class="col-xs-12 col-md-7" id="chairman2">Chairman: Prof.Mahmoud ElGammal (PUA)<br />Co-Chairman: Prof.Mamoun Muhammed (KTH)<br />Secretary General: Prof.Mohamed Fahim (PUA)</p>
-		    <p class="col-xs-12 col-md-5" id="1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
+		    <p class="col-xs-12 col-md-5" id="_1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
                 </div>
 		<div class="row">
 		<div class="shaded" id="bottombar">

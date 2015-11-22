@@ -112,6 +112,10 @@ body
 		margin-bottom:8px;
 		font-size:0.9em;
 	}
+	#organized, #chairman, #chairman2, #_1-3oct
+	{
+		font-size:0.75em;
+	}
 
 }
 @media (min-width: 768px) { /* screen-sm-min 48em */
