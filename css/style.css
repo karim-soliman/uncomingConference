@@ -6,16 +6,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
-/*@font-face {
-  font-family: 'CenturyGothic';
-  src: url('../fonts/CenturyGothic.woff') format('woff'),
-       url('../fonts/CenturyGothic.tff') format('truetype'),
-       url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}*/
-
 @font-face {
   font-family: 'CenturyGothic-Bold';
   src: url('../fonts/CenturyGothic-Bold.woff') format('woff'),
@@ -25,14 +15,6 @@
   font-style: normal;
 }
 
-/*@font-face {
-  font-family: 'century-gothic-bold';
-  src: url('../fonts/century-gothic-bold.eot');
-  src: url('../fonts/century-gothic-bold.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/century-gothic-bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
-}*/
 body
 {
 	font-family:'Century Gothic','CenturyGothic';
@@ -74,37 +56,10 @@ body
 	font-family:'CenturyGothic-Bold','century-gothic-bold';
 	background-color:rgba(0,0,0,0.4);
 }
-.shaded #chairman
-{
-}
 #bottombar
 {
 	position:absolute;
 	bottom:20px;
-}
-/*
-#organized
-{
-	-webkit-animation: mainSlider 20s linear infinite 0s alternate-reverse;
-	animation: mainSlider 20s linear infinite 0s alternate-reverse;
-}
-#chairman
-{
-	-webkit-animation: mainSlider 20s linear infinite 0s alternate;
-	animation: mainSlider 20s linear infinite 0s alternate;
-}
-*/
-@-webkit-keyframes mainSlider
-{
-	0%{opacity:0;}
-	50% {opacity:1;}
-	100% {opacity:0;}
-}
-@keyframes mainSlider
-{
-	0%{opacity:0;}
-	50% {opacity:1;}
-	100% {opacity:0;}
 }
 .image
 {
