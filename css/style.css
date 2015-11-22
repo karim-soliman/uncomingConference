@@ -82,18 +82,18 @@ body
 	position:absolute;
 	bottom:20px;
 }
+/*
 #organized
 {
-	display:inline;
-	-webkit-animation: mainSlider 20s linear infinite 0s alternate-reverse; /* Chrome, Safari, Opera */ 
+	-webkit-animation: mainSlider 20s linear infinite 0s alternate-reverse;
 	animation: mainSlider 20s linear infinite 0s alternate-reverse;
 }
 #chairman
 {
-	display:none;
-	-webkit-animation: mainSlider 20s linear infinite 0s alternate; /* Chrome, Safari, Opera */ 
+	-webkit-animation: mainSlider 20s linear infinite 0s alternate;
 	animation: mainSlider 20s linear infinite 0s alternate;
 }
+*/
 @-webkit-keyframes mainSlider
 {
 	0%{opacity:0;}
