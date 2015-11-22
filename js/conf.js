@@ -9,9 +9,9 @@ function toggle_visibility(id) {
 	}
 	else console.log("element "+id+" not found");
 }
-
+/*
 window.setInterval(function(){
 	toggle_visibility('chairman');
 	toggle_visibility('organized');
 },20000); 
-
+*/

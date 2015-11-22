@@ -1,5 +1,23 @@
 <?php include 'header.php' ?>
   <body>
+    <!--Modal-->
+    <div id="basicModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h2 class="modal-title" id="gridSystemModalLabel">Contact Us</h2>
+      </div>
+      <div class="modal-body">
+            <h3 class="">Conference Email: ICNTSE@pua.edu.eg</h3>
+            <h3 class="">Conference Website: <a href="http://www.icntse.com">http://www.icntse.com</a></h3>
+            <h3 class="">Telephone: +203-3877-(553|453)</h3>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    <!--End modal -->
     <div class="container">
         <div class="row">
             <div class="col-md-9 col-xs-12" id="main"> 
@@ -7,12 +25,12 @@
                 <h2 class="visible-xs visible-sm" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
                 <h1 id="icntse">ICNTSE</h1>
 		<div class="row shaded">
-		    <p class="col-xs-12" id="1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
+		    <p class="col-xs-12 col-md-7" id="chairman2">Chairman: Prof.Mahmoud ElGammal (PUA)<br />Co-Chairman: Prof.Mamoun Muhammed (KTH)<br />Secretary General: Prof.Mohamed Fahim (PUA)</p>
+		    <p class="col-xs-12 col-md-5" id="_1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
                 </div>
 		<div class="row">
 		<div class="shaded" id="bottombar">
                     <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
-		    <p class="col-xs-12 col-md-8" id="chairman" style="display:none;">Chairman: Prof.Dr.Mahmoud ElGammal (PUA), <br />Co-Chairman: Prof.Dr.Mahmoun Muhammed (KTH), Secretary General: Prof.Dr.Mohamed Fahiem (PUA)</p>
                     <a class="col-md-2 col-xs-6" href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a>
                     <a class="col-md-2 col-xs-6" href="https://www.kth.se/en"><img src="img/images.png" /></a>
                 </div> 
@@ -66,7 +84,7 @@
                             </a>
 			</div>
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="contact-us">
-                            <a href="contactus.php">
+                            <a href="#" data-toggle="modal" data-target="#basicModal">
 			    <p>Contact Us</p>
                             </a>
 			</div>

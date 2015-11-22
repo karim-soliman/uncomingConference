@@ -6,16 +6,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
-/*@font-face {
-  font-family: 'CenturyGothic';
-  src: url('../fonts/CenturyGothic.woff') format('woff'),
-       url('../fonts/CenturyGothic.tff') format('truetype'),
-       url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}*/
-
 @font-face {
   font-family: 'CenturyGothic-Bold';
   src: url('../fonts/CenturyGothic-Bold.woff') format('woff'),
@@ -25,14 +15,6 @@
   font-style: normal;
 }
 
-/*@font-face {
-  font-family: 'century-gothic-bold';
-  src: url('../fonts/century-gothic-bold.eot');
-  src: url('../fonts/century-gothic-bold.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/century-gothic-bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
-}*/
 body
 {
 	font-family:'Century Gothic','CenturyGothic';
@@ -74,37 +56,10 @@ body
 	font-family:'CenturyGothic-Bold','century-gothic-bold';
 	background-color:rgba(0,0,0,0.4);
 }
-.shaded #chairman
-{
-}
 #bottombar
 {
 	position:absolute;
 	bottom:20px;
-}
-#organized
-{
-	display:inline;
-	-webkit-animation: mainSlider 20s linear infinite 0s alternate-reverse; /* Chrome, Safari, Opera */ 
-	animation: mainSlider 20s linear infinite 0s alternate-reverse;
-}
-#chairman
-{
-	display:none;
-	-webkit-animation: mainSlider 20s linear infinite 0s alternate; /* Chrome, Safari, Opera */ 
-	animation: mainSlider 20s linear infinite 0s alternate;
-}
-@-webkit-keyframes mainSlider
-{
-	0%{opacity:0;}
-	50% {opacity:1;}
-	100% {opacity:0;}
-}
-@keyframes mainSlider
-{
-	0%{opacity:0;}
-	50% {opacity:1;}
-	100% {opacity:0;}
 }
 .image
 {
@@ -156,6 +111,10 @@ body
 		margin-top:8px;
 		margin-bottom:8px;
 		font-size:0.9em;
+	}
+	#organized, #chairman, #chairman2, #_1-3oct
+	{
+		font-size:0.75em;
 	}
 
 }
@@ -245,7 +204,7 @@ body
 {
 	font-weight:bold;
 }
-#icntsefields ul li
+#icntsefields ul li, .handcursor
 {
 	cursor: hand;
 	cursor: pointer;
@@ -289,6 +248,10 @@ body
 {
 	display:none;
 	color:gold;
+}
+#committeesbody td
+{
+	vertical-align:middle;
 }
 .enlargeFonts
 {
