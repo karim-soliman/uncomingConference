@@ -1,7 +1,8 @@
 <?php include 'header.php' ?>
-  <body class="enlargeFonts">
+  <body class="enlargeFonts" id="committeesbody">
     <div class="container">
 <h1>Conference Committees</h1>
+<hr />
 <h2>Secretary Committee</h2>
 	<table class="table table-hover">
 	    <thead>
@@ -31,7 +32,7 @@
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role01')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role01')">
 Roles and Responsibilities:
 <div style='display:none;' id='role01'><ol>
 <li>Preparing the conference project plan.</li>
@@ -49,6 +50,7 @@ Roles and Responsibilities:
 		</tr>
 	    </tbody>
 	</table>
+	<hr />
 <h2>Organizing Committee</h2>
 	<table class="table table-hover">
 	    <thead>
@@ -78,7 +80,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role02')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role02')">
 Roles and Responsibilities:
 <div style='display:none' id='role02'><ol>
 <li>Controlling all incoming funds and disbursements.</li>
@@ -112,7 +114,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role03')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role03')">
 Roles and Responsibilities:
 <div style='display:none' id='role03'><ol>
 <li>Arranging a plan for promotion of the conference event throughout the planning process according to directions of the Organizing Committee.</li>
@@ -126,6 +128,7 @@ Roles and Responsibilities:
 		</tr>
 	    </tbody>
 	</table>
+	<hr />
 <h2>Publicity and Public Relations Committee</h2>
 	<table class="table table-hover">
 	    <thead>
@@ -159,7 +162,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role04')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role04')">
 Roles and Responsibilities:
 <div style='display:none' id='role04'><ol>
 <li>Designing and production of:
@@ -206,7 +209,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role05')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role05')">
 Roles and Responsibilities:
 <div style='display:none' id='role05'> Arranging a plan for promotion of the conference event throughout the planning process<ol>
 <li>The committee gathers, maintains and utilizes list of media contacts and potential attendees for targeted outreach.</li>
@@ -220,6 +223,7 @@ Roles and Responsibilities:
 		</tr>
 	    </tbody>
 	</table>
+	<hr />
 <h2>Publications Committee</h2>
 	<table class="table table-hover">
 	    <thead>
@@ -245,7 +249,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role06')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role06')">
 Roles and Responsibilities:
 <div style='display:none' id='role06'><ol>
 <li>Determination of the scientific topics and range of information of the conference in cooperation with the Scientific committee</li>
@@ -276,7 +280,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role07')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role07')">
 Roles and Responsibilities:
 <div style='display:none' id='role07'><ol>
 <li>The committee is responsible for designing and managing the Conference Website</li>
@@ -289,6 +293,7 @@ Roles and Responsibilities:
 		</tr>
 	    </tbody>
 	</table>
+	<hr />
 <h2>Local Arrangements Committee</h2>
 	<table class="table table-hover">
 	    <thead>
@@ -339,7 +344,7 @@ Roles and Responsibilities:
 		    <td></td>
 		</tr>
 		<tr>
-		    <td colspan="3" onclick="toggle_visibility('role08')">
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role08')">
 Roles and Responsibilities:
 <div style='display:none' id='role08'><ol>
 <li>Planning and organizing the show for presenters and organizations to introduce state of the art technological displays and informative presentations.</li>
@@ -358,5 +363,6 @@ Roles and Responsibilities:
 		</tr>
 	    </tbody>
 	</table>
+	<hr />
     </div>
 <?php include 'footer.php' ?>
