@@ -29,6 +29,9 @@
 		    <p class="col-xs-12 col-md-5" id="_1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
                 </div>
 		<div class="row">
+		<div class="regButtons" class="col-xs-12 col-md-4">Registration</div>
+		<div class="col-xs-12 col-md-4"></div>
+		<div class="regButtons" class="col-xs-12 col-md-4">Abstract Submission</div>
 		<div class="shaded" id="bottombar">
                     <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
                     <a class="col-md-2 col-xs-6" href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a>
@@ -37,59 +40,59 @@
                 </div> 
             </div>
 	    <div class="col-md-3 col-xs-12" id="nav">
-                    <div class="row">
+                    <div class="row"> <!-- TODO: modify the link to cover everything, with black text -->
+                            <a class="blackLinks" href="aboutalex.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="about-alex">
-                            <a href="aboutalex.php">
 			    <p>About Alexandria</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="abouticntse.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="about-icntse">
-                            <a href="abouticntse.php">
 			    <p>About The Conference</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="brochure.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="brochure">
-                            <a href="brochure.php">
 			    <p>Brochure</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="programme.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="programme">
-                            <a href="programme.php">
 			    <p>Programme</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="keynote.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="keynote">
-                            <a href="keynote.php">
 			    <p>Keynote Speakers</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="committees.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="committees">
-                            <a href="committees.php">
 			    <p>Committees</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="sponsors.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="Sponsors">
-                            <a href="sponsors.php">
 			    <p>Sponsors</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="callforpapers.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="call-for-papers">
-                            <a href="callforpapers.php">
 			    <p>Call for Papers</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="fees.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="fees">
-                            <a href="fees.php">
 			    <p>Fees</p>
-                            </a>
 			</div>
+                            </a>
+                            <a class="blackLinks" href="#" data-toggle="modal" data-target="#basicModal">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="contact-us">
-                            <a href="#" data-toggle="modal" data-target="#basicModal">
 			    <p>Contact Us</p>
-                            </a>
 			</div>
-                    </div>
+                            </a>
             </div> 
+                    </div>
         </div>	
-    </div>
 <?php include 'footer.php' ?>
+    </div>
