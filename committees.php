@@ -3,8 +3,124 @@
     <div class="container">
 <h1>Conference Committees</h1>
 <hr />
-<h2>Secretary Committee</h2>
-	<table class="table table-hover">
+<h2 class="handcursor" onclick="toggle_visibility('sciComm')">Scientific Committee &#9654; </h2>
+	<table style="display:none;" class="table table-hover" id="sciComm">
+	    <thead>
+		<tr>
+		    <th>Function</th>
+		    <th>Name</th>
+		    <th>Title</th>
+		</tr>
+	    </thead>
+	    <tbody>
+		<tr>
+		    <td>KTH Partner</td>
+		    <td>Prof.Dr.Göran Engdahl</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>PUA Partner</td>
+		    <td>Prof.Dr.Adel Abou El Ella</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td rowspan="6">PUA</td>
+		    <td>Prof. M.A.Fahim</td>
+		    <td>Professor of Petrochemical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Alaa Shebl</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Ramadan Abdelmaksoud</td>
+		    <td>Professor of Architectural Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Hassan El-Ghazouly</td>
+		    <td>Professor of Construction Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mohamed Gamal Wasel</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mohamed Yosry Gamal El Din</td>
+		    <td>Professor of Electrical Engineering</td>
+		</tr>
+		<tr>
+		    <td rowspan="9">Alexandria University/Faculty of Engineering</td>
+		    <td>Prof. Medhat Srour</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mohamed Hasab</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Sadek Kassab</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mohamed Teama</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Nabil Abbaasy</td>
+		    <td>Professor of Electrical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Yehia El taweel</td>
+		    <td>Professor of Chemical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Ahmed AbdAllah</td>
+		    <td>Professor of Electrical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Ahmed Sabry Hegazy</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mostafa Nasr</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td rowspan="4">KTH</td>
+		    <td>Prof. Bjorn Plam</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Yohannes Kiros</td>
+		    <td>Professor of Electrical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Alexis Pontvik</td>
+		    <td>Professor of Architectural Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Johan Karlander</td>
+		    <td>Professor of Computer Engineering</td>
+		</tr>
+		<tr>
+		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role00')">
+Roles and Responsibilities:
+<div style='display:none;' id='role00'><ol>
+<li>Determination of the scientific topics and range of information of the conference.</li>
+<li>Researching and selecting the local and International scientific committee members</li>
+<li>Researching, selecting and recommending the Keynote speakers and session chairmen</li>
+<li>Researching and selecting the independent referees who are knowledgeable in the pertinent subject areas of the conference program. </li>
+<li>Review abstracts of the received papers and select those research ideas that are consistent with the conference program topics in the Call of papers.</li>
+<li>Sending the full-papers of the accepted abstracts to the referees for revision, selection and approval. </li>
+<li>Work with the Publication committee on the Preparation of full papers for publication</li>
+</ol></div>
+</td>
+		</tr>
+	    </tbody>
+	</table>
+<hr />
+<h2 class="handcursor" onclick="toggle_visibility('secComm')">Secretary Committee &#9654; </h2>
+	<table style="display:none;" class="table table-hover" id="secComm">
 	    <thead>
 		<tr>
 		    <th>Function</th>
@@ -51,8 +167,8 @@ Roles and Responsibilities:
 	    </tbody>
 	</table>
 	<hr />
-<h2>Organizing Committee</h2>
-	<table class="table table-hover">
+<h2 class="handcursor" onclick="toggle_visibility('orgComm')">Organizing Committee &#9654; </h2>
+	<table style="display:none;" class="table table-hover" id="orgComm">
 	    <thead>
 		<tr>
 		    <th>Function</th>
@@ -129,8 +245,8 @@ Roles and Responsibilities:
 	    </tbody>
 	</table>
 	<hr />
-<h2>Publicity and Public Relations Committee</h2>
-	<table class="table table-hover">
+<h2 class="handcursor" onclick="toggle_visibility('pubComm')">Publicity and Public Relations Committee &#9654; </h2>
+	<table style="display:none;" class="table table-hover" id="pubComm">
 	    <thead>
 		<tr>
 		    <th>Function</th>
@@ -224,8 +340,8 @@ Roles and Responsibilities:
 	    </tbody>
 	</table>
 	<hr />
-<h2>Publications Committee</h2>
-	<table class="table table-hover">
+<h2 class="handcursor" onclick="toggle_visibility('publComm')">Publications Committee &#9654; </h2>
+	<table style="display:none;" class="table table-hover" id="publComm">
 	    <thead>
 		<tr>
 		    <th>Function</th>
@@ -294,8 +410,8 @@ Roles and Responsibilities:
 	    </tbody>
 	</table>
 	<hr />
-<h2>Local Arrangements Committee</h2>
-	<table class="table table-hover">
+<h2 class="handcursor" onclick="toggle_visibility('locComm')">Local Arrangements Committee &#9654; </h2>
+	<table style="display:none;" class="table table-hover" id="locComm">
 	    <thead>
 		<tr>
 		    <th>Function</th>
