@@ -66,6 +66,7 @@ body
 	-moz-border-radius:50%;
 	-webkit-border-radius:50%;
 	background-color:rgba(238,188,160,0.6);
+	padding:20px 40px;
 }
 .bottombar
 {
@@ -74,7 +75,7 @@ body
 	margin:0;
 	padding:0;
 }
-.betengan
+.fittedrow
 {
 	margin:0;
 	padding:0;
