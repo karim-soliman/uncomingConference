@@ -56,10 +56,33 @@ body
 	font-family:'CenturyGothic-Bold','century-gothic-bold';
 	background-color:rgba(0,0,0,0.4);
 }
-#bottombar
+.regButtons
+{
+	color:white;
+	font-size:1.2em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	text-align:center;
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	background-color:rgba(238,188,160,0.6);
+}
+.bottombar
 {
 	position:absolute;
 	bottom:20px;
+	margin:0;
+	padding:0;
+}
+.betengan
+{
+	margin:0;
+	padding:0;
+}
+.bottombar2
+{
+	position:absolute;
+	bottom:150px;
 }
 .image
 {
@@ -116,7 +139,7 @@ body
 		margin-bottom:8px;
 		font-size:0.9em;
 	}
-	#organized, #chairman, #chairman2, #_1-3oct
+	#organized, #chairman, #chairman2, #_1-3oct, .regButtons
 	{
 		font-size:0.75em;
 	}

@@ -28,16 +28,20 @@
 		    <p class="col-xs-12 col-md-7" id="chairman2">Chairman: Prof.Mahmoud ElGammal (PUA)<br />Co-Chairman: Prof.Mamoun Muhammed (KTH)<br />Secretary General: Prof.Mohamed Fahim (PUA)</p>
 		    <p class="col-xs-12 col-md-5" id="_1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
                 </div>
-		<div class="row">
-		<div class="regButtons" class="col-xs-12 col-md-4">Registration</div>
-		<div class="col-xs-12 col-md-4"></div>
-		<div class="regButtons" class="col-xs-12 col-md-4">Abstract Submission</div>
-		<div class="shaded" id="bottombar">
-                    <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
-                    <a class="col-md-2 col-xs-6" href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a>
-                    <a class="col-md-2 col-xs-6" href="https://www.kth.se/en"><img src="img/images.png" /></a>
-                </div> 
-                </div> 
+		<div class="bottombar row betengan">
+		    <div class="col-xs-12 betengan">
+			<div class="col-xs-12 col-md-4"><a href="#"><span class="regButtons">Registration</span></a></div>
+			<div class="invisibile-xs col-md-4"></div>
+			<div class="col-xs-12 col-md-4"><a href="#"><span class="regButtons">Abstract Submission</span></a></div>
+		    </div>
+		    <div class="col-xs-12 betengan">
+			<div class="shaded">
+			    <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
+			    <a class="col-xs-6 col-md-2" href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a>
+			    <a class="col-xs-6 col-md-2" href="https://www.kth.se/en"><img src="img/images.png" /></a>
+			</div> 
+		    </div> 
+		</div>
             </div>
 	    <div class="col-md-3 col-xs-12" id="nav">
                     <div class="row"> <!-- TODO: modify the link to cover everything, with black text -->
