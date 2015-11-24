@@ -9,103 +9,104 @@
 		<tr>
 		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Title</th>
+		    <th>Affiliation</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
-		    <td>KTH Partner</td>
-		    <td>Prof.Dr.Göran Engdahl</td>
-		    <td></td>
-		</tr>
-		<tr>
-		    <td>PUA Partner</td>
-		    <td>Prof.Dr.Adel Abou El Ella</td>
-		    <td></td>
-		</tr>
-		<tr>
-		    <td rowspan="7">PUA</td>
+		    <td rowspan="8">PUA</td>
 		    <td>Prof. Abdelmonem Mousa</td>
-		    <td>Professor of Electrical Engineering</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Ossama El Masry</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Mohamed Fahim</td>
-		    <td>Professor of Petrochemical Engineering</td>
+		    <td>(PUA)</td>
+		</tr>
+		<tr>
+		    <td>Prof.Dr.Adel Abou El Ella *</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Saied Darwish</td>
-		    <td>Professor of Electrical Engineering</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Alaa Shebl</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Ramadan Abdelmaksoud</td>
-		    <td>Professor of Architectural Engineering</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Mohamed Gamal Wasel</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>(PUA)</td>
 		</tr>
 		<tr>
 		    <td rowspan="3">Alexandria University</td>
 		    <td>Prof. Mohamed Hasab</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>(AU)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Hassan Farag</td>
-		    <td>Professor of Engineering</td>
+		    <td>(AU)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Nabil Abbaasy</td>
-		    <td>Professor of Electrical Engineering</td>
+		    <td>(AU)</td>
 		</tr>
 		<tr>
 		    <td rowspan="2">Menoufia University</td>
 		    <td>Prof. Ahmed Abdallah</td>
-		    <td>Professor of Engineering</td>
+		    <td>(MU)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Ahmed Hegazy</td>
-		    <td>Professor of Engineering</td>
+		    <td>(MU)</td>
 		</tr>
 		<tr>
-		    <td rowspan="8">KTH</td>
+		    <td rowspan="9">KTH</td>
 		    <td>Prof. Mamoun Muhammed</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
+		</tr>
+		<tr>
+		    <td>Prof.Dr.Göran Engdahl *</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Lennar Soder</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Thomas Ackermann</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Mark Howells</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Semida Silveira</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Andrew Martin</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Per Lundqvist</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Olga Kordas</td>
-		    <td>Professor of Engineering</td>
+		    <td>(KTH)</td>
+		</tr>
+		<tr>
+		    <td colspan="3">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KTH = Royal Sweden Institute of Technology</td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role00')">
