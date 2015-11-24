@@ -7,14 +7,12 @@
 	<table style="display:none;" class="table table-hover" id="sciComm">
 	    <thead>
 		<tr>
-		    <th>Function</th>
 		    <th>Name</th>
 		    <th>Affiliation</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
-		    <td rowspan="8">PUA</td>
 		    <td>Prof. Abdelmonem Mousa</td>
 		    <td>(PUA)</td>
 		</tr>
@@ -47,7 +45,6 @@
 		    <td>(PUA)</td>
 		</tr>
 		<tr>
-		    <td rowspan="3">Alexandria University</td>
 		    <td>Prof. Mohamed Hasab</td>
 		    <td>(AU)</td>
 		</tr>
@@ -60,7 +57,6 @@
 		    <td>(AU)</td>
 		</tr>
 		<tr>
-		    <td rowspan="2">Menoufia University</td>
 		    <td>Prof. Ahmed Abdallah</td>
 		    <td>(MU)</td>
 		</tr>
@@ -69,7 +65,6 @@
 		    <td>(MU)</td>
 		</tr>
 		<tr>
-		    <td rowspan="9">KTH</td>
 		    <td>Prof. Mamoun Muhammed</td>
 		    <td>(KTH)</td>
 		</tr>
