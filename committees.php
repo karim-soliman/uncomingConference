@@ -27,7 +27,7 @@
 		    <td>(PUA)</td>
 		</tr>
 		<tr>
-		    <td>Prof.Dr.Adel Abou El Ella *</td>
+		    <td>Prof. Adel Abou El Ella *</td>
 		    <td>(PUA)</td>
 		</tr>
 		<tr>
@@ -74,7 +74,7 @@
 		    <td>(KTH)</td>
 		</tr>
 		<tr>
-		    <td>Prof.Dr.Göran Engdahl *</td>
+		    <td>Prof. Göran Engdahl *</td>
 		    <td>(KTH)</td>
 		</tr>
 		<tr>
