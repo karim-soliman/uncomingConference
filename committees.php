@@ -24,9 +24,21 @@
 		    <td></td>
 		</tr>
 		<tr>
-		    <td rowspan="6">PUA</td>
-		    <td>Prof. M.A.Fahim</td>
+		    <td rowspan="7">PUA</td>
+		    <td>Prof. Abdelmonem Mousa</td>
+		    <td>Professor of Electrical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Ossama El Masry</td>
+		    <td>Professor of Mechanical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mohamed Fahim</td>
 		    <td>Professor of Petrochemical Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Saied Darwish</td>
+		    <td>Professor of Electrical Engineering</td>
 		</tr>
 		<tr>
 		    <td>Prof. Alaa Shebl</td>
@@ -37,70 +49,63 @@
 		    <td>Professor of Architectural Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Hassan El-Ghazouly</td>
-		    <td>Professor of Construction Engineering</td>
-		</tr>
-		<tr>
 		    <td>Prof. Mohamed Gamal Wasel</td>
 		    <td>Professor of Mechanical Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Mohamed Yosry Gamal El Din</td>
-		    <td>Professor of Electrical Engineering</td>
-		</tr>
-		<tr>
-		    <td rowspan="9">Alexandria University/Faculty of Engineering</td>
-		    <td>Prof. Medhat Srour</td>
-		    <td>Professor of Mechanical Engineering</td>
-		</tr>
-		<tr>
+		    <td rowspan="3">Alexandria University</td>
 		    <td>Prof. Mohamed Hasab</td>
 		    <td>Professor of Mechanical Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Sadek Kassab</td>
-		    <td>Professor of Mechanical Engineering</td>
-		</tr>
-		<tr>
-		    <td>Prof. Mohamed Teama</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>Prof. Hassan Farag</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
 		    <td>Prof. Nabil Abbaasy</td>
 		    <td>Professor of Electrical Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Yehia El taweel</td>
-		    <td>Professor of Chemical Engineering</td>
+		    <td rowspan="2">Menoufia University</td>
+		    <td>Prof. Ahmed Abdallah</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Ahmed AbdAllah</td>
-		    <td>Professor of Electrical Engineering</td>
+		    <td>Prof. Ahmed Hegazy</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Ahmed Sabry Hegazy</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td rowspan="8">KTH</td>
+		    <td>Prof. Mamoun Muhammed</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Mostafa Nasr</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>Prof. Lennar Soder</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td rowspan="4">KTH</td>
-		    <td>Prof. Bjorn Plam</td>
-		    <td>Professor of Mechanical Engineering</td>
+		    <td>Prof. Thomas Ackermann</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Yohannes Kiros</td>
-		    <td>Professor of Electrical Engineering</td>
+		    <td>Prof. Mark Howells</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Alexis Pontvik</td>
-		    <td>Professor of Architectural Engineering</td>
+		    <td>Prof. Semida Silveira</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
-		    <td>Prof. Johan Karlander</td>
-		    <td>Professor of Computer Engineering</td>
+		    <td>Prof. Andrew Martin</td>
+		    <td>Professor of Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Per Lundqvist</td>
+		    <td>Professor of Engineering</td>
+		</tr>
+		<tr>
+		    <td>Prof. Olga Kordas</td>
+		    <td>Professor of Engineering</td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role00')">
@@ -136,16 +141,13 @@ Roles and Responsibilities:
 		</tr>
 		<tr>
 		    <td rowspan="3">Assistants</td>
-		    <td>Dr.Mona Othman</td>
-		    <td></td>
+		    <td colspan="2">Dr.Mona Othman</td>
 		</tr>
 		<tr>
-		    <td>Dr.Mohamed Abdel Rahman</td>
-		    <td></td>
+		    <td colspan="2">Dr.Mohamed Abdel Rahman</td>
 		</tr>
 		<tr>
-		    <td>Dr.Amr El Sadany (Website)</td>
-		    <td></td>
+		    <td colspan="2">Dr.Amr El Sadany (Website)</td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role01')">
@@ -173,27 +175,22 @@ Roles and Responsibilities:
 		<tr>
 		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Title</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
 		    <td>Head</td>
 		    <td>Ass.Prof.Ahmed A AbdelMutal</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td rowspan="3">Finance Committee</td>
 		    <td>Dr.Mohamed AbdelWahab</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Mohamed AbdelKerim</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Ramy Moussa</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role02')">
@@ -213,21 +210,17 @@ Roles and Responsibilities:
 </td>
 		</tr>
 		<tr>
-		    <td rowspan="3">Sponsorship & Exhibit</td>
+		    <td rowspan="4">Sponsorship & Exhibit</td>
 		    <td>Dr.Khalid Hemdan</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Hesham El-Shemy</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Yaser El-Kamshoushi</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Mohamed El-Fakharany</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role03')">
@@ -251,31 +244,25 @@ Roles and Responsibilities:
 		<tr>
 		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Title</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
 		    <td>Head</td>
 		    <td>Prof.Ramadan AbdelMaksoud</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td rowspan="4">Design and Production of Materials</td>
 		    <td>Dr.Ghada Ragheb</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Mona Nagieb</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Engy Nagieb</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Mona Salem</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role04')">
@@ -310,19 +297,15 @@ Roles and Responsibilities:
 		<tr>
 		    <td rowspan="4">Public Relations</td>
 		    <td>Ass.Prof.Ehssan Nasef</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Ahmed AbdelMutal</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Hesham El-Shimy</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Dalia ElSorady</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role05')">
@@ -346,23 +329,19 @@ Roles and Responsibilities:
 		<tr>
 		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Title</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
 		    <td>Head</td>
 		    <td>Prof.Kadry Montasser</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td rowspan="2">Publication Committee</td>
 		    <td>Ass.Prof.Noha Shaaban</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Ass.Prof.Ehssan Nasef</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role06')">
@@ -381,19 +360,15 @@ Roles and Responsibilities:
 		<tr>
 		    <td rowspan="4">Website Committee</td>
 		    <td>Dr.Amr ElSadany</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Salahuddin ElKazak</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.HebaAllah AbdelWahab</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Karim Soliman</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role07')">
@@ -416,48 +391,38 @@ Roles and Responsibilities:
 		<tr>
 		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Title</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
 		    <td>Head</td>
 		    <td>Prof.Hassan ElGhazoly</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Coordinator</td>
 		    <td>Dr.Mohamed Abdel Rahman</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td rowspan="7">Local Arrangements & Logistics</td>
 		    <td>Dr.Mona Othman</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Maged Mahmoud</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Noha Saeed</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Marwa Abdelfattah</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Dr.Alaa Khalil</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Hanan El-Gammal</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td>Eng.Marwa Waly</td>
-		    <td></td>
 		</tr>
 		<tr>
 		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role08')">
