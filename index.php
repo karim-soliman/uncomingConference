@@ -37,8 +37,8 @@
 		    </div>
 		    <div class="row shaded">
 			    <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology </p>
-			    <a class="col-xs-6 col-md-2" href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a>
-			    <a class="col-xs-6 col-md-2" href="https://www.kth.se/en"><img src="img/images.png" /></a>
+			    <div class="col-xs-6 col-md-2"><a href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a></div>
+			    <div class="col-xs-6 col-md-2"><a href="https://www.kth.se/en"><img src="img/images.png" /></a></div>
 		    </div> 
 		</div>
             </div>
