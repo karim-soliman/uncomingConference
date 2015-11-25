@@ -231,6 +231,10 @@ body
 	{
 		font-size:1.5em;
 	}
+	.dislargeFonts
+	{
+		font-size:0.666666em;
+	}
 
 }
 @media (min-width: 768px) { /* screen-sm-min 48em */
@@ -252,6 +256,10 @@ body
 	.enlargeFonts
 	{
 		font-size:1.75em;
+	}
+	.dislargeFonts
+	{
+		font-size:0.57142em;
 	}
 
 }
@@ -275,6 +283,10 @@ body
 	.enlargeFonts
 	{
 		font-size:2em;
+	}
+	.dislargeFonts
+	{
+		font-size:0.5em;
 	}
 
 }

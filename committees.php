@@ -1,9 +1,12 @@
 <?php include 'header.php' ?>
   <body class="enlargeFonts" id="committeesbody">
-    <div class="container">
-<h1>Conference Committees</h1>
-<hr />
 <div class="container">
+	    <div class="row dislargeFonts">
+		<div class="col-xs-12 navmenuitem" id="feestitle">
+		    <p>Conference Committees</p>
+		</div>
+	    </div>
+    <hr>
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -462,7 +465,5 @@
 	</table>
     </div>
   </div>
-
-</div>
 
 <?php include 'footer.php' ?>

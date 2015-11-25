@@ -1,6 +1,12 @@
 <?php include 'header.php' ?>
   <body >
     <div class="container">
+	    <div class="row">
+		<div class="col-xs-12 navmenuitem" id="feestitle">
+		    <p>Conference Brochure</p>
+		</div>
+	    </div>
+    <hr>
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 	  <!-- Indicators -->
 	  <ol class="carousel-indicators">

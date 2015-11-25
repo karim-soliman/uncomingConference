@@ -2,9 +2,12 @@
   <body>
     <div class="container">
 	    <div class="row">
-		<div class="col-xs-12 navmenuitem" id="cfptitle">
-		    <p>Call for Papers</p>
+		<div class="col-xs-12 navmenuitem" id="feestitle">
+		    <p>Call For Papers</p>
 		</div>
+	    </div>
+    <hr>
+	    <div class="row">
 		<div class="col-xs-12 shadedgray enlargeFonts" id="importantdate">
 		    <p class="white">Important Dates</p>
 		</div>
