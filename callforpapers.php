@@ -16,9 +16,9 @@
 			<tr><th>Date</th><th>Event</th></tr>
 			<tr class="cfp_date"><td>Feb 15, 2016</td><td>Abstract Submission Deadline</td></tr>
 			<tr class="cfp_date"><td>May 20, 2016</td><td>Last Notification for Abstract Acceptance*</td></tr>
-			<tr class="cfp_date"><td>May 15, 2016</td><td>Full Paper Submission Deadline</td></tr>
+			<tr class="cfp_date"><td>March 15, 2016</td><td>Full Paper Submission Deadline</td></tr>
 			<tr class="cfp_date"><td>July 15, 2016</td><td>Last Notification for Full-Paper Acceptance**</td></tr>
-			<tr class="cfp_date"><td>May 15, 2016</td><td>Payment Deadline</td></tr>
+			<tr class="cfp_date"><td>August 15, 2016</td><td>Payment Deadline</td></tr>
 			<tr class="cfp_date"><td>August 20, 2016</td><td>Letter of Final Acceptance***</td></tr>
 			<tr class="cfp_date"><td>September 15, 2016</td><td>Conference Program</td></tr>
 			<tr class="cfp_date"><td>October 1, 2016</td><td>Conference Launch</td></tr>
