@@ -55,9 +55,9 @@
 			    <p>About Alexandria</p>
 			</div>
                             </a>
-                            <a class="blackLinks" href="abouticntse.php">
+                            <a class="blackLinks" href="topics.php">
 			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="about-icntse">
-			    <p>About The Conference</p>
+			    <p>Topics</p>
 			</div>
                             </a>
                             <a class="blackLinks" href="brochure.php">
