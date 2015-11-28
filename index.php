@@ -36,7 +36,7 @@
 		<div class="row">
 		<div class="bottombar">
 		    <div class="col-xs-12">
-			<div class="col-xs-12 col-sm-4"><a href="#"><div class="regButtons">Registration</div></a></div>
+			<div class="col-xs-12 col-sm-4"><a href="registration.php"><div class="regButtons">Registration</div></a></div>
 			<div class="invisibile-xs col-sm-4"></div>
 			<div class="col-xs-12 col-sm-4"><a href="#"><div class="regButtons">Abstract Submission</div></a></div>
 		    </div>
