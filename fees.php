@@ -6,10 +6,9 @@
 		<div class="col-xs-12 navmenuitem" id="feestitle">
 		    <p>Conference Fees</p>
 		</div>
-    </div>
+	    </div>
     <hr>
     <!-- Fees -->
-    <div class="container">           
         <div class="row db-padding-btm db-attached">
             <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                 <div class="db-wrapper">
@@ -84,6 +83,5 @@
 		    </div>
 		</div>
 
-    </div>
     </div>
 <?php include 'footer.php' ?>

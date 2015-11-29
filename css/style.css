@@ -47,6 +47,311 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url("../img/demo/_small/3.jpg");
 }
+@font-face {
+  font-family: 'CenturyGothic-Bold';
+  src: url('../fonts/CenturyGothic-Bold.woff') format('woff'),
+       url('../fonts/CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg'),
+       url('../fonts/CenturyGothic-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body
+{
+	font-family:'Century Gothic','CenturyGothic';
+}
+#main
+{ 
+	background-image:url('../img/AlexandriaLibrary.jpg');
+	background-size:cover;
+	height:878px;
+}
+#title
+{
+	margin-top:0;
+}
+#first-conf
+{
+	color:black;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+}
+#new-trends
+{
+	color:#2eb2fa;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	font-weight:bold;
+	font-size:1.6em;
+}
+#icntse
+{
+	color:white;
+	font-size:4em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	letter-spacing:0.25em;	
+}
+.shaded
+{
+	min-height:100px;
+	color:white;
+	font-size:1.5em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	background-color:rgba(0,0,0,0.4);
+}
+.regButtons
+{
+	color:white;
+	font-size:1.2em;
+	font-family:'CenturyGothic-Bold','century-gothic-bold';
+	text-align:center;
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	background-color:rgba(238,188,160,0.6);
+	padding:20px 40px;
+}
+.bottombar
+{
+	position:absolute;
+	bottom:20px;
+	margin:0;
+	padding:0;
+}
+.fittedrow
+{
+	margin:0;
+	padding:0;
+}
+.bottombar2
+{
+	position:absolute;
+	bottom:150px;
+}
+.image
+{
+	position:relative;
+	width:100%;
+}
+.image img
+{
+	display:block;
+	margin: 0px auto;
+}
+.image p
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	margin-right:-50%;
+	width:135px;
+	text-align:center;
+}
+#nav
+{
+	padding-top:6px;
+}
+.blackLinks
+{
+	color:black;
+}
+.navmenuitem
+{
+	padding:10px;
+	margin-top:8px;
+	margin-bottom:8px;
+	background-color:#80a7bc;
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+.navmenuitem a
+{
+	color:black;
+}
+.navmenuitem p
+{
+}
+.green
+{
+	color:#44d044;
+	font-weight:bold;
+	font-size:2em;
+}
+.white
+{
+	color:white;
+}
+.gray
+{
+	color:#646464;
+}
+.purple
+{
+	color:#905d94;
+}
+#abouticntse, #icntsefields
+{
+	font-weight:bold;
+}
+#icntsefields ul li, .handcursor
+{
+	cursor: hand;
+	cursor: pointer;
+}
+.shadedgray
+{
+	background-color:#646464;
+}
+.cfp_date
+{
+	color:black;
+	font-weight:bold;
+}
+.cfp_note
+{
+	color:#5c9b79;
+}
+
+#cfptitle
+{
+	margin-left:-40%;
+}
+#feestitle
+{
+	margin-top:5%;
+}
+#cfptitle p, #feestitle p
+{
+	font-size:1.5em;
+	font-weight:bold;
+}
+#importantdate p
+{
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	padding-top:0;
+	padding-bottom:0;
+	font-size:1.5em;
+}
+#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4,#icntsefield5 
+{
+	display:none;
+	color:gold;
+}
+#icntsefield1 li,#icntsefield2 li,#icntsefield3 li,#icntsefield4 li,#icntsefield5 li
+{
+	list-style-position:inside;
+}
+#committeesbody td
+{
+	vertical-align:middle;
+}
+@media (max-width: 767px) { /* screen-xs-max BS4: min-width:34em*/
+	#new-trends
+	{
+		font-size:1.25em;
+	}
+	#icntse
+	{
+		letter-spacing:0em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:0.9em;
+	}
+	#organized, #chairman, #chairman2, #_1-3oct
+	{
+		font-size:0.75em;
+	}
+	.enlargeFonts
+	{
+		font-size:1.5em;
+	}
+	.dislargeFonts
+	{
+		font-size:0.666666em;
+	}
+
+}
+@media (min-width: 768px) { /* screen-sm-min 48em */
+	#new-trends
+	{
+		font-size:1.25em;
+	}
+	#icntse
+	{
+		letter-spacing:0em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:1em;
+	}
+	.enlargeFonts
+	{
+		font-size:1.75em;
+	}
+	.dislargeFonts
+	{
+		font-size:0.57142em;
+	}
+
+}
+
+@media (min-width: 992px) { /* @screen-md-min BS4: 62em*/
+	#new-trends
+	{
+		font-size:1.4em;
+	}
+	#icntse
+	{
+		letter-spacing:0.125em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:1.5em;
+	}
+	.enlargeFonts
+	{
+		font-size:2em;
+	}
+	.dislargeFonts
+	{
+		font-size:0.5em;
+	}
+
+}
+
+@media (min-width: 1200px) { /* @screen-lg-min 1200px BS4: 75em*/
+	#new-trends
+	{
+		font-size:1.6em;
+	}
+	#icntse
+	{
+		letter-spacing:0.25em;
+	}
+	.navmenuitem
+	{
+		padding:10px;
+		margin-top:8px;
+		margin-bottom:8px;
+		font-size:2em;
+	}
+	.enlargeFonts
+	{
+		font-size:2.5em;
+	}
 
 @media all and (min-width: 600px) {
   section.module h2 {
