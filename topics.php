@@ -2,11 +2,8 @@
   <body>
     <div class="container">
         <div class="row">
-            <div class="col-xs-12" id="abouticntse"> 
-		<h1><span class="gray">about</span> <span class="green">ICNTSE</span></h1>
-		<p><span class="green">The conference</span> is specifically designed to focus on the issues related to energy and energy conservation. Industry leaders, engineers and academics will discuss in this conference the latest developments in the use and production of renewable energy and ways of energy conservation.</p> 
-		<p><span class="green">Conference Topics:</span><br />The Conference will focus on a number of themes that need prior attention, these themes include:</p>
-            </div> 
+		<h1 style="text-align:center;"><span class="gray">Conference Topics</span></h1>
+	    <hr />
             <div class="col-xs-12 shadedgray" id="icntsefields"> 
 		<ul class="green">
 			<li onclick="toggle_visibility('icntsefield1')">Power and Energy Engineering &#9654;
