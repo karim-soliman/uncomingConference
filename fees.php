@@ -1,6 +1,7 @@
 <?php include 'header.php' ?>
 <link rel="stylesheet" type="text/css" href="css/fees.css">
   <body >
+<?php include('navbar.php'); ?>
     <div class="container">
 	    <div class="row">
 		<div class="col-xs-12 navmenuitem" id="feestitle">

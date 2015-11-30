@@ -1,6 +1,7 @@
 <?php include 'header.php' ?>
   <body class="enlargeFonts" id="committeesbody">
 <div class="container">
+<?php include('navbar.php'); ?>
 	    <div class="row dislargeFonts">
 		<div class="col-xs-12 navmenuitem" id="feestitle">
 		    <p>Conference Committees</p>

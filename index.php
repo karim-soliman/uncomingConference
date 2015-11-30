@@ -20,7 +20,7 @@
                  <h3 class="masthead-brand"><img src="img/pua.png"> <img src="img/kth.png"></h3>
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="#">Home</a></li>
-                  <li><a href="#">Registration</a></li>
+                  <li><a href="registration.php">Registration</a></li>
                   <li><a href="#">Contact</a></li>
                 </ul>
               </nav>
