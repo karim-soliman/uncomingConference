@@ -11,11 +11,12 @@
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#Sience_C" aria-controls="Sience_C" role="tab" data-toggle="tab">Scientific</a></li>
+    <li role="presentation"><a href="#Stu_C" aria-controls="Stu_C" role="tab" data-toggle="tab">Student</a></li>
     <li role="presentation"><a href="#Sec_C" aria-controls="Sec_C" role="tab" data-toggle="tab">Secretary</a></li>
     <li role="presentation"><a href="#Org_C" aria-controls="Org_C" role="tab" data-toggle="tab">Organizing</a></li>
     <li role="presentation"><a href="#PubRel_C" aria-controls="PubRel_C" role="tab" data-toggle="tab">Publicity</a></li>
     <li role="presentation"><a href="#Pub_C" aria-controls="Pub_C" role="tab" data-toggle="tab">Publication</a></li>
-    <li role="presentation"><a href="#Local_C" aria-controls="Local_C" role="tab" data-toggle="tab">Local Arrangements</a></li>
+    <li role="presentation"><a href="#Local_C" aria-controls="Local_C" role="tab" data-toggle="tab">Arrangements</a></li>
   </ul>
 
   <!-- Tab panes -->
@@ -119,10 +120,10 @@
 		    <td>(KTH)</td>
 		</tr>
 		<tr>
-		    <td colspan="3">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KTH = Royal Sweden Institute of Technology</td>
+		    <td colspan="2">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KTH = Royal Sweden Institute of Technology</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role00')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role00')">
 				Roles and Responsibilities:
 				<div style='display:none;' id='role00'><ol>
 				<li>Determination of the scientific topics and range of information of the conference.</li>
@@ -138,6 +139,48 @@
 	    </tbody>
 	</table>
     </div>
+    <div role="tabpanel" class="tab-pane" id="Stu_C">
+    	<h1>Student Committee</h1>
+    	<table class="table table-hover" id="stuComm">
+	    <thead>
+		<tr>
+		    <th>Name</th>
+		    <th>Affiliation</th>
+		</tr>
+	    </thead>
+	    <tbody>
+		<tr>
+		    <td>Mr. TBD</td>
+		    <td>(PUA)</td>
+		</tr>
+		<tr>
+		    <td>Mr. TBD</td>
+		    <td>(PUA)</td>
+		</tr>
+		<tr>
+		    <td>Ms. TBD</td>
+		    <td>(PUA)</td>
+		</tr>
+		<tr>
+		    <td>Mr. TBD</td>
+		    <td>(PUA)</td>
+		</tr>
+		<tr>
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role09')">
+				Roles and Responsibilities:
+				<div style='display:none;' id='role09'><ol>
+				<li>TBD.</li>
+				<li>TBD.</li>
+				<li>TBD.</li>
+				<li>TBD.</li>
+				<li>TBD.</li>
+				<li>TBD.</li>
+				</ol></div>
+			</td>
+		</tr>
+	    </tbody>
+	</table>
+    </div>
     <div role="tabpanel" class="tab-pane" id="Sec_C">
     	<h1>Secretary Committee</h1>
     	<table class="table table-hover" id="secComm">
@@ -145,27 +188,25 @@
 		<tr>
 		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Title</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
 		    <td>Secretary General</td>
 		    <td>Prof.M.A.Fahim</td>
-		    <td>Secretary General</td>
 		</tr>
 		<tr>
 		    <td rowspan="3">Assistants</td>
-		    <td colspan="2">Dr.Mona Othman</td>
+		    <td>Dr.Mona Othman</td>
 		</tr>
 		<tr>
-		    <td colspan="2">Dr.Mohamed Abdel Rahman</td>
+		    <td>Dr.Mohamed Abdel Rahman</td>
 		</tr>
 		<tr>
-		    <td colspan="2">Dr.Amr El Sadany (Website)</td>
+		    <td>Dr.Amr El Sadany (Website)</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role01')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role01')">
 			Roles and Responsibilities:
 			<div style='display:none;' id='role01'><ol>
 			<li>Preparing the conference project plan.</li>
@@ -209,7 +250,7 @@
 		    <td>Eng.Ramy Moussa</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role02')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role02')">
 				Roles and Responsibilities:
 				<div style='display:none' id='role02'><ol>
 				<li>Controlling all incoming funds and disbursements.</li>
@@ -239,7 +280,7 @@
 		    <td>Eng.Mohamed El-Fakharany</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role03')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role03')">
 				Roles and Responsibilities:
 				<div style='display:none' id='role03'><ol>
 				<li>Arranging a plan for promotion of the conference event throughout the planning process according to directions of the Organizing Committee.</li>
@@ -282,7 +323,7 @@
 		    <td>Eng.Mona Salem</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role04')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role04')">
 			Roles and Responsibilities:
 			<div style='display:none' id='role04'><ol>
 			<li>Designing and production of:
@@ -325,7 +366,7 @@
 		    <td>Dr.Dalia ElSorady</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role05')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role05')">
 			Roles and Responsibilities:
 			<div style='display:none' id='role05'> Arranging a plan for promotion of the conference event throughout the planning process<ol>
 			<li>The committee gathers, maintains and utilizes list of media contacts and potential attendees for targeted outreach.</li>
@@ -362,7 +403,7 @@
 		    <td>Ass.Prof.Ehssan Nasef</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role06')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role06')">
 				Roles and Responsibilities:
 				<div style='display:none' id='role06'><ol>
 				<li>Determination of the scientific topics and range of information of the conference in cooperation with the Scientific committee</li>
@@ -389,7 +430,7 @@
 		    <td>Eng.Karim Soliman</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role07')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role07')">
 			Roles and Responsibilities:
 			<div style='display:none' id='role07'><ol>
 			<li>The committee is responsible for designing and managing the Conference Website</li>
@@ -444,7 +485,7 @@
 		    <td>Eng.Marwa Waly</td>
 		</tr>
 		<tr>
-		    <td colspan="3" class="handcursor" onclick="toggle_visibility('role08')">
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role08')">
 			Roles and Responsibilities:
 			<div style='display:none' id='role08'><ol>
 			<li>Planning and organizing the show for presenters and organizations to introduce state of the art technological displays and informative presentations.</li>
