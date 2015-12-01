@@ -238,7 +238,7 @@
 	    <tbody>
 		<tr>
 		    <td>Head</td>
-		    <td>Ass.Prof.Ahmed A AbdelMutal</td>
+		    <td>Prof.Saied Darwish</td>
 		</tr>
 		<tr>
 		    <td rowspan="3">Finance Committee</td>
