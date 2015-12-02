@@ -1,13 +1,12 @@
 <?php include 'header.php' ?>
-  <body >
+  <body style="padding: 50px;">
 <?php include('navbar.php'); ?>
     <div class="container">
 	    <div class="row">
-		<div class="col-xs-12 navmenuitem" id="feestitle">
-		    <p>Registration</p>
+		<div class="page-header">
+		  <h1>Registration</h1>
 		</div>
 	    </div>
-    <hr>
 	<form class="form-horizontal" method="post" action="" enctype="multipart/form-data" id="form_maker">
 			<fieldset>
 					<div class="form-group">
