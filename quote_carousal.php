@@ -10,7 +10,7 @@
                                 </li>
                             </ol>
 
-                            <!-- Carousel Slides / Quotes -->
+                            <!-- Caaarousel Slides / Quotes -->
                             <div class="carousel-inner text-center">
 
                                 <!-- Quote 1 -->
