@@ -1,10 +1,10 @@
 <?php include 'header.php' ?>
-  <body >
+  <body style="padding: 50px;">
 <?php include('navbar.php'); ?>
     <div class="container">
 	    <div class="row">
-		<div class="col-xs-12 navmenuitem" id="feestitle">
-		    <p>Abstract Submission</p>
+		<div class="page-header">
+		    <h1>Abstract Submission</h1>
 		</div>
 	    </div>
     <hr>
