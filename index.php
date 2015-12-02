@@ -1,9 +1,10 @@
 <?php include 'header.php' ?>
-  <body>
+  <body style="padding: 50px;">
+<?php include('navbar.php');?>
 <?php include('contactus_modal.php') ?>
     <div class="container">
         <div class="row">
-            <div class="col-md-9 col-xs-12" id="main"> 
+            <div class="col-xs-12" id="main"> 
                 <h1 class="visible-md visible-lg" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
                 <h2 class="visible-xs visible-sm" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
                 <h1 id="icntse">ICNTSE</h1>
@@ -26,58 +27,6 @@
 		</div>
 		</div>
             </div>
-	    <div class="col-md-3 col-xs-12" id="nav">
-                    <div class="row"> 
-                            <a class="blackLinks" href="aboutalex.php">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="about-alex">
-			    <p>About Alexandria</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="home.php#confTopics">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="about-icntse">
-			    <p>Topics</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="brochure.php">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="brochure">
-			    <p>Brochure</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="programme.php">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="programme">
-			    <p>Programme</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="keynote.php">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="keynote">
-			    <p>Keynote Speakers</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="committees.php">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="committees">
-			    <p>Committees</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="home.php#sponsors">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="Sponsors">
-			    <p>Sponsors</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="home.php#callPapers">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="call-for-papers">
-			    <p>Call for Papers</p>
-			</div>
-                            </a>
-                            <a class="blackLinks" href="fees.php">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="fees">
-			    <p>Fees</p>
-			</div>
-                            </a>
-                         <a class="blackLinks" href="" data-toggle="modal" data-target="#contact-us"><div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="contact-us">
-			    <p>Contact Us</p>
-			</div>
-                            </a>
-            </div> 
                     </div>
         </div>	
 <?php include 'footer.php' ?>
