@@ -1,5 +1,10 @@
 <?php include 'header.php' ?>
   <body>
+<?php include('navbar.php'); ?>
+<!-- TODO: Fix messed up spacing and remove unnecessary br's -->
+    <br />
+    <br />
+    <br />
     <div class="container">
         <div class="row">
 		<h1 style="text-align:center;"><span class="gray">Conference Topics</span></h1>

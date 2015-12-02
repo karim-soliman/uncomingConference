@@ -54,7 +54,7 @@ PRICING STYLES
         .db-pricing-eleven ul li {
             padding-top: 20px;
             padding-bottom: 20px;
-            cursor: pointer;
+            cursor: default;
         }
 
             .db-pricing-eleven ul li i {

@@ -1,13 +1,15 @@
 <?php include 'header.php' ?>
-  <body class="enlargeFonts" id="committeesbody">
+  <body style="padding:50px;" id="committeesbody">
 <div class="container">
-	    <div class="row dislargeFonts">
-		<div class="col-xs-12 navmenuitem" id="feestitle">
-		    <p>Conference Committees</p>
+<?php include('navbar.php'); ?>
+	    <div class="row">
+		<div class="page-header">
+		  <h1>Conference Committees</h1>
+		</div>
 		</div>
 	    </div>
-    <hr>
 
+<div class="container">
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#Sience_C" aria-controls="Sience_C" role="tab" data-toggle="tab">Scientific</a></li>
@@ -506,5 +508,5 @@
 	</table>
     </div>
   </div>
-
+</div>
 <?php include 'footer.php' ?>
