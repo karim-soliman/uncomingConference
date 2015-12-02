@@ -83,7 +83,7 @@
     <main>
       <section class="module parallax parallax-1">
         <div class="container">
-          <h1>ICTNE</h1>
+          <h1>ICNTSE</h1>
         </div>
       </section>
   </main>
@@ -258,7 +258,7 @@
           <div class="panel-heading" role="tab" id="headingSix">
             <h4 class="panel-title">
               <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                <b>Energy Sotrage</b>
+                <b>Energy Storage</b>
               </a>
             </h4>
           </div>
@@ -328,15 +328,15 @@
 <hr>
 
 <div class="container">
-  <div id="sponsers"></div>
+  <div id="sponsors"></div>
 <div class="row">
-	<h1 align="center">Sponsers</h1>
+	<h1 align="center">Sponsors</h1>
  </div>
       <!-- Three columns of text below circle pictures -->
       <div class="row">
         <div class="col-md-4">
           <img class="img-circle center-block" src="img/logo.png" width="140" height="140">
-          <h3 align="center">Schenider</h3>
+          <h3 align="center">Schneider</h3>
           
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
@@ -346,7 +346,7 @@
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
           <img class="img-circle center-block" src="img/logo.png" width="140" height="140">
-          <h3 align="center">Sponser 3</h3>
+          <h3 align="center">Sponsor 3</h3>
          
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
