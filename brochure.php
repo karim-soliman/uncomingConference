@@ -1,13 +1,12 @@
 <?php include 'header.php' ?>
-  <body >
+  <body style="padding: 50px;">
 <?php include('navbar.php'); ?>
     <div class="container">
 	    <div class="row">
-		<div class="col-xs-12 navmenuitem" id="feestitle">
-		    <p>Conference Brochure</p>
+		<div class="page-header">
+		  <h1>Conference Brochure</h1>
 		</div>
 	    </div>
-    <hr>
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 	  <!-- Indicators -->
 	  <ol class="carousel-indicators">
