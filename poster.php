@@ -37,6 +37,8 @@
 			</ul>
 			<h2>Liability</h2>
 			<p><strong>All poster presenters are responsible for putting up and removing their own poster on the scheduled time notified. If presenters do not remove their poster in time, organization committee is not responsible for any damage that might happen to the poster if it is removed by staff members.We would like to thank you for your valuable contribution to this Conference. Please do not hesitate to contact the Conference Secretariat at the address stated if you require any assistance before or during the Conference.</strong></p>
+			<h2>Paper Template</h2>
+			<p><strong>Please follow the IEEE Standard template for you paper submission.</strong> <a class="btn btn-xs btn-info" href="paper_template.doc">Click here</a> <strong>to download the template.</strong></p>
 			</div>
 			<div class="col-md-5"><img class="img-responsive" src="img/poster.jpg"></div>
 		</div>
