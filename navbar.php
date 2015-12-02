@@ -34,6 +34,7 @@
             <li><a href="home.php#venue">Venue & Accommodation</a></li>
           </ul>
         </li>
+        <li><a href="brochure.php">Brochure</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
      	<li><a href="" data-toggle="modal" data-target="#contact-us">Contact us</a></li>
