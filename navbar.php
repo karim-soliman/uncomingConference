@@ -26,6 +26,7 @@
             <li><a href="keynote.php">Keynote Speakers</a></li>
             <li><a href="committees.php">Committees</a></li>
             <li><a href="home.php#callPapers">Call for papers</a></li>
+            <li><a href="brochure.php">Brochure</a></li>
             <li><a href="fees.php">Fees</a></li>
             <li><a href="poster.php">Poster Guidelines</a></li>
             <li role="separator" class="divider"></li>
@@ -34,7 +35,7 @@
             <li><a href="home.php#venue">Venue & Accommodation</a></li>
           </ul>
         </li>
-        <li><a href="brochure.php">Brochure</a></li>
+        
       </ul>
       <ul class="nav navbar-nav navbar-right">
      	<li><a href="" data-toggle="modal" data-target="#contact-us">Contact us</a></li>
