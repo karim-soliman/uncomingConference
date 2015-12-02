@@ -1,28 +1,6 @@
 <?php include 'header.php' ?>
   <body>
-    <!--Modal-->
-    <div id="basicModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-        <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-	    <div class="row">
-		<div class="modal-title navmenuitem" id="gridSystemModalLabel">
-		    <p>Contact Us</p>
-		</div>
-	    </div>
-      </div>
-      <div class="modal-body">
-            <h3 class="">Conference Email: ICNTSE@pua.edu.eg</h3>
-            <h3 class="">Conference Website: <a href="http://www.icntse.com">http://www.icntse.com</a></h3>
-            <h3 class="">Telephone: +203-3877-(553|453)</h3>
-	    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13649.958643189657!2d29.960322!3d31.2071607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6aa3847bf78e707d!2sPharos+University+in+Alexandria!5e0!3m2!1sen!2seg!4v1448479139696" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-      </div>
-      
-    </div>
-  </div>
-</div>
-    <!--End modal -->
+<?php include('contactus_modal.php') ?>
     <div class="container">
         <div class="row">
             <div class="col-md-9 col-xs-12" id="main"> 
@@ -95,8 +73,7 @@
 			    <p>Fees</p>
 			</div>
                             </a>
-                            <a class="blackLinks" href="#" data-toggle="modal" data-target="#basicModal">
-			<div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="contact-us">
+                         <a class="blackLinks" href="" data-toggle="modal" data-target="#contact-us"><div class="col-md-12 col-sm-4 col-xs-6 navmenuitem" id="contact-us">
 			    <p>Contact Us</p>
 			</div>
                             </a>
