@@ -7,6 +7,7 @@
 	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 </head>
 <body style="background: url(img/energy2.jpg) no-repeat center center fixed;">
+  <?php include('contactus_modal.php');?>
 
  <div class="site-wrapper">
 
@@ -21,16 +22,20 @@
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="#">Home</a></li>
                   <li><a href="registration.php">Registration</a></li>
-                  <li><a href="#">Contact</a></li>
+                  <li><a href="contactus.php">Contact</a></li>
                 </ul>
               </nav>
             </div>
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">ICNTSE</h1>
-            <p class="lead"><small>1</small><sup>st</sup> INTERNATIONAL CONFERENCE ON NEW TRENDS FOR SUSTAINABLE ENERGY.</p>
-            <p class="lead">The conference is specifically designed to focus on the issues related to energy and energy conservation. Industry leaders, engineers and academics will discuss in this conference the latest developments in the use and production of renewable energy and ways of energy conservation.
+            <h1 class="cover-heading">INTERNATIONAL CONFERENCE ON NEW TRENDS FOR SUSTAINABLE ENERGY</h1>
+            <h1 clas="cover-heading">ICNTSE</h1>
+            <p class="lead">Chairman: Prof.Mahmoud ElGammal (PUA)<br>
+                            Co-Chairman: Prof.Mamoun Muhammed (KTH)<br>
+                            Secretary General: Prof.Mohamed Fahim (PUA)</p>
+                            <p class="lead">1-3 October, 2016<br>
+                                  At Pharos University, Alexandria, Egypt</p>
               <p class="lead"><a class="btn btn-lg btn-info" href="home.php">Learn
                 more</a></p>
             </p>
