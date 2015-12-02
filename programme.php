@@ -1,19 +1,20 @@
 <?php include 'header.php' ?>
-  <body >
+  <body style="padding:50px;" >
 <?php include('navbar.php'); ?>
     <div class="container">
 	<div class="row">
-		<div class="col-xs-12 navmenuitem" id="feestitle">
-		    <p>Programme</p>
+		<div class="page-header">
+		  <h1>Programme</h1>
 		</div>
-		    <hr />
-		    <div class="col-xs-12 shadedgray" id="icntsefields"> 
-			<ul>
-				<a class="green" href="day1.pdf"><li>1<sup>st</sup> Day's Program &#9654; </li></a>
-				<a class="green" href="day2.pdf"><li>2<sup>nd</sup> Day's Program &#9654; </li></a>
-				<a class="green" href="day3.pdf"><li>3<sup>rd</sup> Day's Program &#9654; </li></a>
-		        <ul>
-		   </div> 
+		    <div class="col-md-4">
+		    	<a href="day1.pdf" type="button" class="btn btn-primary btn-lg btn-block">Day 1 Agenda</a>
+		    </div>
+		    <div class="col-md-4">
+		    	<a href="day2.pdf" type="button" class="btn btn-primary btn-lg btn-block">Day 2 Agenda</a>
+		    </div>
+		    <div class="col-md-4">
+		    	<a href="day3.pdf" type="button" class="btn btn-primary btn-lg btn-block">Day 3 Agenda</a>
+		    </div>
 	</div>
 	<hr>
 	<div class="row">
