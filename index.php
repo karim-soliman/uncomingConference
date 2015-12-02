@@ -6,7 +6,7 @@
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 </head>
-<body style="background: url(img/energy2.jpg) no-repeat center center fixed;">
+<body style="background: url(img/solar_energy.jpg) no-repeat center center fixed;">
   <?php include('contactus_modal.php');?>
 
  <div class="site-wrapper">
@@ -29,8 +29,7 @@
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">INTERNATIONAL CONFERENCE ON NEW TRENDS FOR SUSTAINABLE ENERGY</h1>
-            <h1 clas="cover-heading">ICNTSE</h1>
+            <h1 class="cover-heading">INTERNATIONAL CONFERENCE ON NEW TRENDS FOR SUSTAINABLE ENERGY (ICNTSE)</h1>
             <p class="lead">Chairman: Prof.Mahmoud ElGammal (PUA)<br>
                             Co-Chairman: Prof.Mamoun Muhammed (KTH)<br>
                             Secretary General: Prof.Mohamed Fahim (PUA)</p>
