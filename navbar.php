@@ -29,7 +29,7 @@
             <li><a href="home.php#callPapers">Call for papers</a></li>
             <li><a href="brochure.php">Brochure</a></li>
             <li><a href="fees.php">Fees</a></li>
-            <li><a href="poster.php">Poster Guidelines</a></li>
+            <li><a href="poster.php">Poster & Paper Guidelines</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="home.php#sponsors">Sponsors</a></li>
             <li role="separator" class="divider"></li>
