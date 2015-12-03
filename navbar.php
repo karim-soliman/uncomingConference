@@ -18,6 +18,7 @@
         <li><a href="home.php">Home</a></li>
         <li><a href="aboutalex.php">About Alexandria</a></li>
         <li><a href="registration.php">Registration</a></li>
+        <li><a href="abstract.php">Abstract</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
           <ul class="dropdown-menu">
