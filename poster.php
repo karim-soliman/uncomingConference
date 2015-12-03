@@ -11,7 +11,7 @@
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 </head>
-<body style="padding:50px;">
+<body style="padding-top:50px;">
 	<?php include('navbar.php'); ?>
 	<div class="container">
 		<div class="row">

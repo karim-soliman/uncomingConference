@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
-  <body style="padding:50px;" id="committeesbody">
+  <body style="padding-top:50px;" id="committeesbody">
 <div class="container">
 <?php include('navbar.php'); ?>
 	    <div class="row">
