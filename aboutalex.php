@@ -39,7 +39,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-7">
-				<h3>The Royal Library of Alexandria, in Alexandria, Egypt, was once the largest library in the world. It is generally thought to have been founded at the beginning of the 3rd century BC, during the reign of Ptolemy II of Egypt. It was likely created after his father had built what would become the first part of the library complex, the temple of the Muses—the Museion, Greek Μουσείον (from which the Modern English word museum is derived).
+				<h3>The Royal Library of Alexandria, in Alexandria, Egypt, was once the largest library in the world. It is generally thought to have been founded at the beginning of the 3rd century BC, during the reign of Ptolemy II of Egypt. It was likely created after his father had built what would become the first part of the library complex, the temple of the Muses-the Museion (from which the Modern English word museum is derived).
 				<br>
 				It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day the details of the destruction (or destructions) remain a lively source of controversy.
 				<br>
