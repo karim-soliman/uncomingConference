@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 <link rel="stylesheet" type="text/css" href="css/fees.css">
-  <body style="padding: 50px;">
+  <body style="padding-top: 50px;">
 <?php include('navbar.php'); ?>
     <div class="container">
 	     <div class="row">
