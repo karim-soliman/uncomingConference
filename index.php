@@ -1,56 +1,33 @@
-<html>
-<head>
-	<title>ICNTSE</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/cover.css">
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-</head>
-<body style="background: url(img/solar_energy.jpg) no-repeat center center fixed;">
-  <?php include('contactus_modal.php');?>
-
- <div class="site-wrapper">
-
-      <div class="site-wrapper-inner">
-
-        <div class="cover-container">
-
-          <div class="masthead clearfix">
-            <div class="inner">
-              <nav>
-                 <h3 class="masthead-brand"><img src="img/pua.png"> <img src="img/kth.png"></h3>
-                <ul class="nav masthead-nav">
-                  <li class="active"><a href="#">Home</a></li>
-                  <li><a href="registration.php">Registration</a></li>
-                  <li><a href="contactus.php">Contact</a></li>
-                </ul>
-              </nav>
+<?php include 'header.php' ?>
+  <body style="padding-top: 50px;">
+<?php include('navbar.php');?>
+<?php include('contactus_modal.php') ?>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12" id="main"> 
+                <h1 class="visible-md visible-lg" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
+                <h2 class="visible-xs visible-sm" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
+                <h1 id="icntse">ICNTSE</h1>
+		<div class="row shaded">
+		    <p class="col-xs-12 col-md-7" id="chairman2">Chairman: Prof.Mahmoud ElGammal (PUA)<br />Co-Chairman: Prof.Björn Palm (KTH)<br />Co-Chairman: Prof.Mamoun Muhammed (KTH)<br />Secretary General: Prof.Mohamed Fahim (PUA)</p>
+		    <p class="col-xs-12 col-md-5" id="_1-3oct">1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</p>
+                </div>
+		<div class="row">
+		<div class="bottombar">
+		    <div class="col-xs-12">
+			<div class="col-xs-12 col-sm-4"><a href="registration.php"><div class="regButtons">Registration</div></a></div>
+			<div class="invisibile-xs col-sm-4"></div>
+			<div class="col-xs-12 col-sm-4"><a href="abstract.php"><div class="regButtons">Abstract Submission</div></a></div>
+		    </div>
+		    <div class="col-xs-12 shaded">
+			    <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology, Department of Energy Technology </p>
+			    <div class="col-xs-6 col-md-2"><a href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a></div>
+			    <div class="col-xs-6 col-md-2"><a href="https://www.kth.se/en"><img src="img/images.png" /></a></div>
+		    </div> 
+		</div>
+		</div>
             </div>
-          </div>
-
-          <div class="inner cover">
-            <h1 class="cover-heading">INTERNATIONAL CONFERENCE ON NEW TRENDS FOR SUSTAINABLE ENERGY (ICNTSE)</h1>
-            <p class="lead">Chairman: Prof.Mahmoud ElGammal (PUA)<br>
-                            Co-Chairman: Prof.Mamoun Muhammed (KTH)<br>
-                            Secretary General: Prof.Mohamed Fahim (PUA)</p>
-                            <p class="lead">1-3 October, 2016<br>
-                                  At Pharos University, Alexandria, Egypt</p>
-              <p class="lead"><a class="btn btn-lg btn-info" href="home.php">Learn
-                more</a></p>
-            </p>
-          </div>
-
-          <div class="mastfoot">
-            <div class="inner">
-              <p><font color="black">Conference hosted by </font><a href="http://www.pua.edu.eg">PUA</a>. 2016</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
+                    </div>
+        </div>	
+<?php include 'footer.php' ?>
     </div>
-
-<script type="text/javascript" src="js/bootstrap.js"></script>
-</body>
-</html>
