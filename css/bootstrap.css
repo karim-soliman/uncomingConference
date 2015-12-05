@@ -6402,8 +6402,8 @@ button.close {
 }
 .carousel-control .icon-prev,
 .carousel-control .icon-next,
-.carousel-control .glyphicon-menu-right,
-.carousel-control .glyphicon-menu-left {
+.carousel-control .glyphicon-circle-arrow-right,
+.carousel-control .glyphicon-circle-arrow-left {
   position: absolute;
   top: 50%;
   z-index: 5;
@@ -6411,12 +6411,12 @@ button.close {
   margin-top: -10px;
 }
 .carousel-control .icon-prev,
-.carousel-control .glyphicon-menu-left {
+.carousel-control .glyphicon-circle-arrow-left {
   left: 50%;
   margin-left: -10px;
 }
 .carousel-control .icon-next,
-.carousel-control .glyphicon-menu-right {
+.carousel-control .glyphicon-circle-arrow-right {
   right: 50%;
   margin-right: -10px;
 }
@@ -6478,8 +6478,8 @@ button.close {
   text-shadow: none;
 }
 @media screen and (min-width: 768px) {
-  .carousel-control .glyphicon-menu-left,
-  .carousel-control .glyphicon-menu-right,
+  .carousel-control .glyphicon-circle-arrow-left,
+  .carousel-control .glyphicon-circle-arrow-right,
   .carousel-control .icon-prev,
   .carousel-control .icon-next {
     width: 30px;
@@ -6487,11 +6487,11 @@ button.close {
     margin-top: -15px;
     font-size: 30px;
   }
-  .carousel-control .gglyphicon-menu-left,
+  .carousel-control .glyphicon-circle-arrow-left,
   .carousel-control .icon-prev {
     margin-left: -15px;
   }
-  .carousel-control .glyphicon-menu-right,
+  .carousel-control .glyphicon-circle-arrow-right,
   .carousel-control .icon-next {
     margin-right: -15px;
   }
