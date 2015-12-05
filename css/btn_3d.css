@@ -4,8 +4,8 @@
     outline:medium none;
     -moz-outline-style:none;
     border:0px;
-    margin-right:10px;
-    margin-top:15px;
+    width:100%;
+    margin:auto;
 }
 .btn3d:focus {
     outline:medium none;
