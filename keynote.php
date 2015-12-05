@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/parallax.css">
+	<link rel="stylesheet" type="text/css" href="css/navbar_blue.css">
 
 	
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
