@@ -12,13 +12,13 @@
 <div class="container">
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#Sience_C" aria-controls="Sience_C" role="tab" data-toggle="tab">Scientific</a></li>
-    <li role="presentation"><a href="#Stu_C" aria-controls="Stu_C" role="tab" data-toggle="tab">Student</a></li>
-    <li role="presentation"><a href="#Sec_C" aria-controls="Sec_C" role="tab" data-toggle="tab">Secretary</a></li>
-    <li role="presentation"><a href="#Org_C" aria-controls="Org_C" role="tab" data-toggle="tab">Organizing</a></li>
-    <li role="presentation"><a href="#PubRel_C" aria-controls="PubRel_C" role="tab" data-toggle="tab">Publicity</a></li>
-    <li role="presentation"><a href="#Pub_C" aria-controls="Pub_C" role="tab" data-toggle="tab">Publication</a></li>
-    <li role="presentation"><a href="#Local_C" aria-controls="Local_C" role="tab" data-toggle="tab">Arrangements</a></li>
+    <li role="presentation" class="active"><a href="#Sience_C" aria-controls="Sience_C" role="tab" data-toggle="tab"><b>Scientific</b></a></li>
+    <li role="presentation"><a href="#Stu_C" aria-controls="Stu_C" role="tab" data-toggle="tab"><b>Student</b></a></li>
+    <li role="presentation"><a href="#Sec_C" aria-controls="Sec_C" role="tab" data-toggle="tab"><b>Secretary</b></a></li>
+    <li role="presentation"><a href="#Org_C" aria-controls="Org_C" role="tab" data-toggle="tab"><b>Organizing</b></a></li>
+    <li role="presentation"><a href="#PubRel_C" aria-controls="PubRel_C" role="tab" data-toggle="tab"><b>Publicity</b></a></li>
+    <li role="presentation"><a href="#Pub_C" aria-controls="Pub_C" role="tab" data-toggle="tab"><b>Publication</b></a></li>
+    <li role="presentation"><a href="#Local_C" aria-controls="Local_C" role="tab" data-toggle="tab"><b>Arrangements</b></a></li>
   </ul>
 
   <!-- Tab panes -->
