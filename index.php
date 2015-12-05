@@ -15,9 +15,9 @@
 		<div class="row">
 		<div class="bottombar">
 		    <div class="col-xs-12">
-			<div class="col-xs-12 col-sm-4"><a href="registration.php"><div class="regButtons">Registration</div></a></div>
+			<div class="col-xs-12 col-sm-4"><a href="registration.php"><div class="btn btn-primary btn-lg btn3d"><i class="fa fa-file-text fa-2x"></i> Registration</div></a></div>
 			<div class="invisibile-xs col-sm-4"></div>
-			<div class="col-xs-12 col-sm-4"><a href="abstract.php"><div class="regButtons">Abstract Submission</div></a></div>
+			<div class="col-xs-12 col-sm-4"><a href="abstract.php"><div class="btn btn-success btn-lg btn3d"><i class="fa fa-book fa-2x"></i> Abstract Submission</div></a></div>
 		    </div>
 		    <div class="col-xs-12 shaded">
 			    <p class="col-xs-12 col-md-8" id="organized" style="display:inline;">Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology, Department of Energy Technology </p>
