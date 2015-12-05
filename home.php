@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/parallax.css">
+  <link rel="stylesheet" type="text/css" href="css/navbar_blue.css">
 
 	
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -70,11 +71,11 @@
 
   <!-- Controls -->
   <a class="left carousel-control" href="#alex_carousal" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+    <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#alex_carousal" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+    <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div> <!-- end of carousal Alexandria -->
@@ -100,6 +101,7 @@
 			    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 			      <div class="panel-body">
 			      	<ul>
+                <b>
 			      		<li>Innovation in Energy Technology</li>
 			      		<li>Power Systems and Automation</li>
 			      		<li>Centralized and Decentralized Energy Systems</li>
@@ -107,6 +109,7 @@
 			      		<li>Nuclear Power</li>
 			      		<li>Clean Coal Technologies in Power Generation</li>
 			      		<li>Energy Economics</li>
+                </b>
 			      	</ul>
 			      </div>
 			    </div>
@@ -122,6 +125,7 @@
 			    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 			      <div class="panel-body">
 			      	<ul>
+                <b>
 			      		<li>Hybrid Power Systems</li>
 			      		<li>Photovoltaic Solar Power Systems</li>
 			      		<li>Thermal Solar Energy</li>
@@ -130,6 +134,7 @@
 			      		<li>Hydrogen fuel</li>
 			      		<li>Fuel Cells Technology and Applicationsli</li>
 			      		<li>Smart Grids, Micro Grids, and others</li>
+                </b>
 			      	</ul>
 			      </div>
 			    </div>
@@ -145,12 +150,14 @@
 			    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 			      <div class="panel-body">
 			      	<ul>
+                <b>
 			      		<li>Energy and Sustainable Development</li>
 			      		<li>Green Energy Technologies</li>
 			      		<li>Energy and Environment</li>
 			      		<li>Clean Transportation Fuels</li>
 			      		<li>Energy challenges in the urbanization process</li>
 			      		<li>Building Efficiency Technologies</li>
+              </b>
 			      	</ul>
 			      </div>
 			    </div>
@@ -166,12 +173,14 @@
 			    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 			      <div class="panel-body">
 			      	<ul>
+                <b>
 			      		<li>Energy Audit and On-site Measurement</li>
 			      		<li>Energy Management & Policies</li>
 			      		<li>Energy Analysis & Energy Efficiency</li>
 			      		<li>Energy Sustainability in developing countries</li>
 			      		<li>National Energy Strategy and Decision making</li>
 			      		<li>Regional Issues, Economics & Policies</li>
+              </b>
 			      	</ul>
 			      </div>
 			    </div>
@@ -187,9 +196,11 @@
 			    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
 			      <div class="panel-body">
 			      	<ul>
+                <b>
 			      		<li>BioDiesel</li>
 			      		<li>BioFuels</li>
 			      		<li>BioRefinery</li>
+              </b>
 			      	</ul>
 			      </div>
 			    </div>
@@ -205,8 +216,10 @@
           <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
             <div class="panel-body">
               <ul>
+                <b>
                 <li>Physical Energy Storage</li>
                 <li>Chemical Energy Storage</li>
+              </b>
               </ul>
             </div>
           </div>
@@ -258,8 +271,8 @@
         <br><br>Special rates for the accommodation for our participants are in:
         <br>
         <ul>
-          <li><h4>Hilton Green Plaza: <a class="btn btn-sm btn-info" href="http://www.ar.hilton.com/en/hotel/Hilton-Alexandria-Green-Plaza">Click here</a></h4></li>
-          <li><h4>Green Plaza Inn: <a class="btn btn-sm btn-info" href="http://www.greenplazainn.com/">Click here</a></h4></li>
+          <li><h4>Hilton Green Plaza: <a class="btn btn-xs btn-info" href="http://www.ar.hilton.com/en/hotel/Hilton-Alexandria-Green-Plaza"><b>Click here</b></a></h4></li>
+          <li><h4>Green Plaza Inn: <a class="btn btn-xs btn-info" href="http://www.greenplazainn.com/"><b>Click here</b></a></h4></li>
         </ul>
       </h4>
     </div>
