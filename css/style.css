@@ -245,7 +245,7 @@ body
 @media (max-width: 767px) { /* screen-xs-max BS4: min-width:34em*/
 	#new-trends
 	{
-		font-size:1.25em;
+		font-size:1em;
 	}
 	#icntse
 	{
@@ -258,9 +258,13 @@ body
 		margin-bottom:8px;
 		font-size:0.9em;
 	}
-	#organized, #chairman, #chairman2, #_1-3oct
+	#organized
 	{
 		font-size:0.75em;
+	}
+	#chairman2, #_1-3oct
+	{
+		font-size:1em;
 	}
 	.enlargeFonts
 	{
@@ -315,6 +319,10 @@ body
 		margin-bottom:8px;
 		font-size:1.5em;
 	}
+	#_1-3oct, #chairman2, #specialrow
+	{
+		height:120px;
+	}
 	.enlargeFonts
 	{
 		font-size:2em;
@@ -346,7 +354,7 @@ body
 	{
 		font-size:2.5em;
 	}
-
+}
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 42px;
@@ -362,4 +370,17 @@ body
   section.module.parallax h1 {
     font-size: 160px;
   }
+}
+
+@media all
+{
+	#_1-3oct, #chairman2
+	{
+		display:table;
+	}
+	#_1-3oct span, #chairman2 span
+	{
+		display:table-cell;
+		vertical-align:middle;
+	}
 }
