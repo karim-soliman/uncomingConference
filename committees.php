@@ -423,13 +423,13 @@
 		    <td>Dr.Amr ElSadany</td>
 		</tr>
 		<tr>
+		    <td>Eng.Karim Soliman</td>
+		</tr>
+		<tr>
 		    <td>Eng.Salahuddin ElKazak</td>
 		</tr>
 		<tr>
 		    <td>Eng.HebaAllah AbdelWahab</td>
-		</tr>
-		<tr>
-		    <td>Eng.Karim Soliman</td>
 		</tr>
 		<tr>
 		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role07')">
