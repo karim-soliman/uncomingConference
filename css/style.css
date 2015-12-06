@@ -258,11 +258,11 @@ body
 		margin-bottom:8px;
 		font-size:0.9em;
 	}
-	#organized
+	#first-conf
 	{
 		font-size:0.75em;
 	}
-	#chairman2, #_1-3oct
+	#chairman2, #_1-3oct, #organized
 	{
 		font-size:1em;
 	}
@@ -372,15 +372,19 @@ body
   }
 }
 
-@media all
+@media all and (min-width: 200px)
 {
-	#_1-3oct, #chairman2
+	.shadedBlock, .shadedBlockImage
 	{
 		display:table;
 	}
-	#_1-3oct span, #chairman2 span
+	.shadedBlock span, .shadedBlockImage span
 	{
 		display:table-cell;
 		vertical-align:middle;
+	}
+	.shadedBlockImage span
+	{
+		text-align:center;
 	}
 }
