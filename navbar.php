@@ -26,7 +26,8 @@
             <li><a href="registration.php">Registration</a></li>
             <li><a href="abstract.php">Abstract Submission</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="poster.php">Poster & Paper Guidelines</a></li>
+            <li><a href="poster.php">Poster Guidelines</a></li>
+            <li><a href="poster.php#paperGuidelines">Paper Guidelines</a></li>
           </ul>
         </li>
         <li class="dropdown">
